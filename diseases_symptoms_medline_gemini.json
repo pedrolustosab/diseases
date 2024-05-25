@@ -1,0 +1,28 @@
+{
+    "Aspergillosis": [
+        "Cough",
+        "Fever",
+        "Chest pain",
+        "Wheezing",
+        "Shortness of breath",
+        "Blood in sputum",
+        "Headache",
+        "Sinus pain",
+        "Nasal congestion",
+        "Skin lesions",
+        "Eye irritation",
+        "Joint pain",
+        "Fatigue",
+        "Weight loss"
+    ],
+    "Abscess": [
+        "Pain",
+        "Redness",
+        "Swelling",
+        "Warmth",
+        "Pus",
+        "Fever",
+        "Fatigue",
+        "Chills"
+    ]
+}
