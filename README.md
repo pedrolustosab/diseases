@@ -1,4 +1,4 @@
-# Diseases Scraping Project
+# Diseases
 
 ## Descrição
 Este projeto tem como objetivo realizar a raspagem de dados sobre doenças infecciosas e seus sintomas a partir de duas fontes principais: MedlinePlus e WHO (World Health Organization). Utilizamos a ferramenta Gemini para formatar os dados raspados em tópicos, incluindo informações sobre sintomas e consequências, complementando com dados adicionais quando necessário.
