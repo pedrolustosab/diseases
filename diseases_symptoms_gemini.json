@@ -1,0 +1,92 @@
+{
+    "Aspergillosis": [
+        "Cough",
+        "Coughing up blood",
+        "Wheezing",
+        "Shortness of breath",
+        "Fever",
+        "Chest pain",
+        "Facial swelling",
+        "Skin lesions",
+        "Weight loss",
+        "Fatigue"
+    ],
+    "Abscess": [
+        "Pain",
+        "Swelling",
+        "Redness",
+        "Warmth",
+        "Pus drainage",
+        "Fever",
+        "Fatigue",
+        "Tenderness to touch"
+    ],
+    "Acute Bronchitis": [
+        "Cough",
+        "Coughing up mucus phlegm",
+        "Shortness of breath",
+        "Chest discomfort",
+        "Fatigue",
+        "Slight fever and chills",
+        "Sore throat",
+        "Body aches"
+    ],
+    "Viral Infections": [
+        "Fever",
+        "Cough",
+        "Sore throat",
+        "Runny or stuffy nose",
+        "Body aches",
+        "Fatigue",
+        "Headache",
+        "Nausea",
+        "Vomiting",
+        "Diarrhea"
+    ],
+    "HIV and Infections": [
+        "Fever",
+        "Chills",
+        "Rash",
+        "Night sweats",
+        "Muscle aches",
+        "Sore throat",
+        "Fatigue",
+        "Swollen lymph nodes",
+        "Mouth ulcers",
+        "Cough",
+        "Shortness of breath",
+        "Diarrhea",
+        "Weight loss",
+        "Skin rashes",
+        "Sores",
+        "Headache",
+        "Stiff neck",
+        "Vision changes",
+        "Confusion",
+        "Seizures"
+    ],
+    "Anthrax": [
+        "Skin sores with a black center",
+        "Fever and chills",
+        "Swollen lymph nodes",
+        "Cough",
+        "Shortness of breath",
+        "Nausea",
+        "vomiting",
+        "or stomach pain",
+        "Headache",
+        "Sweating",
+        "Extreme tiredness fatigue"
+    ],
+    "Meningitis": [
+        "Fever",
+        "Headache",
+        "Stiff neck",
+        "Nausea",
+        "Vomiting",
+        "Confusion",
+        "Sensitivity to light",
+        "Sleepiness or difficulty waking up",
+        "Seizures"
+    ]
+}
