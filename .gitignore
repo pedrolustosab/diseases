@@ -1,0 +1,10 @@
+# Ignorar arquivos de configuração específicos
+.env
+config.py
+
+# Ignorar diretórios de compilação
+__pycache__/
+node_modules/
+
+# Ignorar arquivos de log
+*.log
