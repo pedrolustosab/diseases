@@ -1,0 +1,174 @@
+{
+    "Intoxicação por Monóxido de Carbono": [
+        "Dor de cabeça",
+        "Tontura",
+        "Fraqueza",
+        "Dor de estômago",
+        "Vômito",
+        "Dor no peito",
+        "Confusão",
+        "Sintomas semelhantes aos da gripe",
+        "Desmaio",
+        "Morte"
+    ],
+    "Cardiomiopatia": [
+        "Batimentos cardíacos irregulares",
+        "Acúmulo de sangue nos pulmões ou no resto do corpo",
+        "Insuficiência cardíaca",
+        "Falta de ar ou dificuldade para respirar",
+        "Fadiga",
+        "Inchaço nos tornozelos e pernas",
+        "Batimento cardíaco irregular ou palpitações",
+        "Síncope (desmaio ou perda breve da consciência)"
+    ],
+    "Cardiomiopatia Dilatada": [
+        "Uma das câmaras de bombeamento (ventrículos) do coração está aumentada"
+    ],
+    "Cardiomiopatia Hipertrófica": [
+        "Músculo cardíaco espessado",
+        "Morte súbita em adolescentes e atletas jovens adultos"
+    ],
+    "Cardiomiopatia Arritmogênica": [
+        "Batimentos cardíacos irregulares ou ritmos anormais"
+    ],
+    "Cardiomiopatia Restritiva": [
+        "Músculo cardíaco rígido ou com cicatrizes",
+        "Amiloidose",
+        "Hemocromatose"
+    ],
+    "Cardiomiopatia Pediátrica": [
+        "Infecção viral",
+        "Parada cardíaca súbita em jovens"
+    ],
+    "Cardiomiopatia Periparto": [
+        "Insuficiência cardíaca",
+        "Músculo cardíaco enfraquecido",
+        "Acúmulo de líquido nos pulmões",
+        "Falta de ar",
+        "Fadiga",
+        "Tornozelos ou pernas inchados"
+    ],
+    "Doença Cardíaca": [
+        "Dor no peito ou desconforto",
+        "Dor na parte superior das costas ou pescoço",
+        "Azia",
+        "Náusea ou vômito",
+        "Fadiga extrema",
+        "Tontura",
+        "Falta de ar"
+    ],
+    "Ataque Cardíaco": [
+        "Dor no peito ou desconforto",
+        "Dor na parte superior das costas ou pescoço",
+        "Azia",
+        "Náusea ou vômito",
+        "Fadiga extrema",
+        "Tontura",
+        "Falta de ar"
+    ],
+    "Arritmia": [
+        "Sensações de palpitação no peito"
+    ],
+    "Insuficiência Cardíaca": [
+        "Falta de ar",
+        "Fadiga",
+        "Inchaço dos pés, tornozelos, pernas, abdômen ou veias do pescoço"
+    ],
+    "Bartonelose": [],
+    "Doença da arranhadura do gato": [],
+    "Infecção por Bartonella quintana": [],
+    "Infecção por Bartonella bacilliformis": [],
+    "Infecção do Trato Urinário (ITU)": [
+        "A ITU é uma infecção que envolve qualquer um dos órgãos ou estruturas do trato urinário (por exemplo, rins, ureteres, bexiga e uretra)."
+    ],
+    "Infecção do Trato Urinário Associada a Cateter (CAUTI)": [
+        "Germes (geralmente bactérias) entram no trato urinário através do cateter urinário e causam infecção.",
+        "Aumento da morbidade",
+        "Mortalidade",
+        "Maiores custos com saúde",
+        "Maior tempo de internação"
+    ],
+    "Gripe": [],
+    "HIV/AIDS": [],
+    "Obesidade": [],
+    "Infecções Relacionadas à Linha Central (CLABSI)": [
+        "Febre",
+        "Vermelhidão na pele e sensibilidade ao redor da linha central"
+    ],
+    "Dermatite Cercariana": [
+        "Formigamento",
+        "Queimação",
+        "Coceira na pele",
+        "Pequenas espinhas avermelhadas",
+        "Pequenas bolhas"
+    ],
+    "Febre Hemorrágica Chapare (CHHF)": [
+        "Febre",
+        "Dor de cabeça",
+        "Dor muscular e nas articulações",
+        "Dor atrás dos olhos",
+        "Dor de estômago",
+        "Vômito",
+        "Diarreia",
+        "Sangramento nas gengivas",
+        "Erupção cutânea",
+        "Irritabilidade"
+    ],
+    "Bronquite Aguda": [
+        "Tosse com ou sem muco",
+        "Dor no peito",
+        "Cansaço (fadiga)",
+        "Dor de cabeça leve",
+        "Dores leves no corpo",
+        "Dor de garganta"
+    ],
+    "Coqueluche": [],
+    "Pneumonia": [],
+    "Infecção de Ouvido": [],
+    "Infecção Sinusal": [],
+    "Dor de Garganta": [],
+    "Infecção do Trato Urinário": [],
+    "Resfriado Comum": [],
+    "Infecção de Pele": [],
+    "Síndrome de Reye": [
+        "Pode prejudicar o fígado e o cérebro"
+    ],
+    "Pneumoconioses": [
+        "Problemas respiratórios",
+        "Tosse",
+        "Falta de ar"
+    ],
+    "Chikungunya": [
+        "Febre",
+        "Dor nas articulações",
+        "Dor de cabeça",
+        "Dor muscular",
+        "Inchaço das articulações",
+        "Erupção cutânea"
+    ],
+    "Abuso Físico": [
+        "Uso intencional de força física que pode resultar em lesão física",
+        "Bater",
+        "Chutar",
+        "Sacudir",
+        "Outras demonstrações de força contra uma criança"
+    ],
+    "Abuso Sexual": [
+        "Pressionar ou forçar uma criança a se envolver em atos sexuais",
+        "Acariciar",
+        "Penetração",
+        "Expor uma criança a outras atividades sexuais"
+    ],
+    "Abuso Emocional": [
+        "Comportamentos que prejudicam a autoestima ou o bem-estar emocional de uma criança",
+        "Insultar",
+        "Envergonhar",
+        "Rejeitar",
+        "Negar amor"
+    ],
+    "Negligência": [
+        "Falha em atender às necessidades físicas e emocionais básicas de uma criança",
+        "Falta de moradia, alimentação, roupas, educação, acesso a cuidados médicos",
+        "Falta de validação e resposta adequada aos sentimentos"
+    ]
+}

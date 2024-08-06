@@ -1,0 +1,644 @@
+{
+    "Intoxicação por Monóxido de Carbono": [
+        "Dor de cabeça",
+        "Tontura",
+        "Fraqueza",
+        "Dor de estômago",
+        "Vômito",
+        "Dor no peito",
+        "Confusão",
+        "Sintomas semelhantes aos da gripe",
+        "Desmaio",
+        "Morte"
+    ],
+    "Cardiomiopatia": [
+        "Batimentos cardíacos irregulares",
+        "Acúmulo de sangue nos pulmões ou no resto do corpo",
+        "Insuficiência cardíaca",
+        "Falta de ar ou dificuldade para respirar",
+        "Fadiga",
+        "Inchaço nos tornozelos e pernas",
+        "Batimento cardíaco irregular ou palpitações",
+        "Síncope (desmaio ou perda breve da consciência)"
+    ],
+    "Cardiomiopatia Dilatada": [
+        "Uma das câmaras de bombeamento (ventrículos) do coração está aumentada"
+    ],
+    "Cardiomiopatia Hipertrófica": [
+        "Músculo cardíaco espessado",
+        "Morte súbita em adolescentes e atletas jovens adultos"
+    ],
+    "Cardiomiopatia Arritmogênica": [
+        "Batimentos cardíacos irregulares ou ritmos anormais"
+    ],
+    "Cardiomiopatia Restritiva": [
+        "Músculo cardíaco rígido ou com cicatrizes",
+        "Amiloidose",
+        "Hemocromatose"
+    ],
+    "Cardiomiopatia Pediátrica": [
+        "Infecção viral",
+        "Parada cardíaca súbita em jovens"
+    ],
+    "Cardiomiopatia Periparto": [
+        "Insuficiência cardíaca",
+        "Músculo cardíaco enfraquecido",
+        "Acúmulo de líquido nos pulmões",
+        "Falta de ar",
+        "Fadiga",
+        "Tornozelos ou pernas inchados"
+    ],
+    "Doença Cardíaca": [
+        "Dor no peito ou desconforto",
+        "Dor na parte superior das costas ou pescoço",
+        "Azia",
+        "Náusea ou vômito",
+        "Fadiga extrema",
+        "Tontura",
+        "Falta de ar"
+    ],
+    "Ataque Cardíaco": [
+        "Dor no peito ou desconforto",
+        "Dor na parte superior das costas ou pescoço",
+        "Azia",
+        "Náusea ou vômito",
+        "Fadiga extrema",
+        "Tontura",
+        "Falta de ar"
+    ],
+    "Arritmia": [
+        "Sensação de palpitações no peito"
+    ],
+    "Insuficiência Cardíaca": [
+        "Falta de ar",
+        "Fadiga",
+        "Inchaço nos pés, tornozelos, pernas, abdômen ou veias do pescoço"
+    ],
+    "Bartonelose": [],
+    "Doença da arranhadura do gato": [],
+    "Infecção por Bartonella quintana": [],
+    "Infecção por Bartonella bacilliformis": [],
+    "Infecção do Trato Urinário (ITU)": [
+        "A ITU é uma infecção que envolve qualquer um dos órgãos ou estruturas do trato urinário (por exemplo, rins, ureteres, bexiga e uretra)."
+    ],
+    "Infecção do Trato Urinário Associada a Cateter (CAUTI)": [
+        "Germes (geralmente bactérias) entram no trato urinário através do cateter urinário e causam infecção.",
+        "Aumento da morbidade",
+        "Mortalidade",
+        "Maiores custos com saúde",
+        "Maior tempo de internação"
+    ],
+    "Gripe": [
+        "Febre durante a gravidez",
+        "Complicações na gravidez",
+        "Doença grave em pessoas grávidas",
+        "Hospitalização",
+        "Doença grave em bebês"
+    ],
+    "HIV/AIDS": [],
+    "Obesidade": [
+        "Asma",
+        "Apneia do sono",
+        "Problemas ósseos e articulares",
+        "Diabetes tipo 2",
+        "Fatores de risco para doenças cardíacas, como pressão alta",
+        "Derrame (em adultos)",
+        "Muitos tipos de câncer (em adultos)",
+        "Doenças cardíacas (em adultos)",
+        "Diabetes tipo 2 (em adultos)",
+        "Morte prematura (em adultos)",
+        "Doença mental, como depressão clínica e ansiedade (em adultos)"
+    ],
+    "Infecções Relacionadas à Linha Central (CLABSI)": [
+        "Febre",
+        "Vermelhidão na pele e sensibilidade ao redor da linha central"
+    ],
+    "Dermatite Cercariana": [
+        "Formigamento",
+        "Queimação",
+        "Coceira na pele",
+        "Pequenas espinhas avermelhadas",
+        "Pequenas bolhas"
+    ],
+    "Febre Hemorrágica Chapare (CHHF)": [
+        "Febre",
+        "Dor de cabeça",
+        "Dor muscular e nas articulações",
+        "Dor atrás dos olhos",
+        "Dor de estômago",
+        "Vômito",
+        "Diarreia",
+        "Sangramento nas gengivas",
+        "Erupção cutânea",
+        "Irritabilidade"
+    ],
+    "Bronquite Aguda": [
+        "Tosse com ou sem muco",
+        "Dor no peito",
+        "Cansaço (fadiga)",
+        "Dor de cabeça leve",
+        "Dores leves no corpo",
+        "Dor de garganta"
+    ],
+    "Coqueluche": [
+        "Tosse intensa",
+        "Parada respiratória",
+        "Cor azulada na pele",
+        "Sintomas leves em crianças maiores e adultos",
+        "Risco de vida para recém-nascidos"
+    ],
+    "Pneumonia": [
+        "Infecção dos pulmões"
+    ],
+    "Infecção de Ouvido": [],
+    "Infecção Sinusal": [],
+    "Dor de Garganta": [],
+    "Infecção do Trato Urinário": [],
+    "Resfriado Comum": [],
+    "Infecção de Pele": [],
+    "Síndrome de Reye": [
+        "Pode prejudicar o fígado e o cérebro"
+    ],
+    "Pneumoconioses": [
+        "Problemas respiratórios",
+        "Tosse",
+        "Falta de ar"
+    ],
+    "Chikungunya": [
+        "Fadiga",
+        "Sintomas gripais, incluindo dor muscular, dor de cabeça, sudorese, irritabilidade e sensação geral de doença",
+        "Sintomas que pioram após esforço físico ou mental (também conhecido como 'mal-estar pós-esforço')",
+        "Dificuldade em pensar ou se concentrar (às vezes chamada de 'névoa cerebral'), dificuldade em encontrar palavras",
+        "Dor nas articulações crônica ou recorrente",
+        "Problemas de sono"
+    ],
+    "Abuso Físico": [
+        "Uso intencional de força física que pode resultar em lesão física",
+        "Bater",
+        "Chutar",
+        "Sacudir",
+        "Outras demonstrações de força contra uma criança"
+    ],
+    "Abuso Sexual": [
+        "Pressionar ou forçar uma criança a se envolver em atos sexuais",
+        "Acariciar",
+        "Penetração",
+        "Expor uma criança a outras atividades sexuais"
+    ],
+    "Abuso Emocional": [
+        "Comportamentos que prejudicam a autoestima ou o bem-estar emocional de uma criança",
+        "Insultar",
+        "Envergonhar",
+        "Rejeitar",
+        "Negar amor"
+    ],
+    "Negligência": [
+        "Falha em atender às necessidades físicas e emocionais básicas de uma criança",
+        "Falta de moradia, alimentação, roupas, educação, acesso a cuidados médicos",
+        "Falta de validação e resposta adequada aos sentimentos"
+    ],
+    "Artrite Infantil (Artrite Juvenil)": [
+        "Dor nas articulações",
+        "Inchaço",
+        "Febre",
+        "Rigidez",
+        "Erupção cutânea",
+        "Sensação de cansaço",
+        "Perda de apetite"
+    ],
+    "Diabetes tipo 2": [
+        "Falta de sono"
+    ],
+    "Lesões": [
+        "Falta de sono"
+    ],
+    "Problemas de atenção e comportamento": [
+        "Falta de sono"
+    ],
+    "Baixas notas na escola": [
+        "Muito tempo de tela"
+    ],
+    "Má saúde mental": [
+        "Muito tempo de tela"
+    ],
+    "Clamídia": [
+        "Corrimento vaginal anormal",
+        "Sensação de queimação ao urinar",
+        "Corrimento peniano",
+        "Dor e inchaço em um ou ambos os testículos",
+        "Dor retal",
+        "Sangramento retal"
+    ],
+    "Doença Inflamatória Pélvica (DIP)": [
+        "Formação de tecido cicatricial que bloqueia as trompas de falópio",
+        "Gravidez ectópica (gravidez fora do útero)",
+        "Infertilidade (não ser capaz de engravidar)",
+        "Dor pélvica/abdominal de longa duração"
+    ],
+    "Cólera": [
+        "Diarreia aquosa",
+        "Vômito",
+        "Câimbras nas pernas",
+        "Desidratação",
+        "Choque"
+    ],
+    "Síndrome da Fadiga Crônica (SFC)": [
+        "Fadiga severa que não melhora com repouso",
+        "Problemas de pensamento",
+        "Problemas de sono",
+        "Tontura",
+        "Dor",
+        "Mal-estar pós-esforço (PEM) - piora dos sintomas após atividade física ou mental",
+        "Dificuldade em realizar atividades diárias como tomar banho ou cozinhar",
+        "Dificuldade em manter um emprego, frequentar a escola e participar da vida familiar e social",
+        "Incapacidade em alguns casos"
+    ],
+    "Doença Pulmonar Obstrutiva Crônica (DPOC)": [
+        "Tosse frequente ou chiado no peito",
+        "Falta de ar ao realizar atividades cotidianas",
+        "Dificuldade em respirar profundamente",
+        "Excesso de catarro ou muco",
+        "Dificuldade em trabalhar ou realizar atividades habituais",
+        "Dificuldade em caminhar ou subir escadas",
+        "Dificuldade em se concentrar, lembrar ou tomar decisões",
+        "Asma",
+        "Doença cardíaca",
+        "Diabetes",
+        "Depressão ou problemas de saúde mental",
+        "Problemas de saúde relatados"
+    ],
+    "Doença de Lyme": [
+        "Fadiga",
+        "Sintomas gripais, incluindo dor muscular, dor de cabeça, sudorese, irritabilidade e sensação geral de doença",
+        "Sintomas que pioram após esforço físico ou mental (também conhecido como 'mal-estar pós-esforço')",
+        "Dificuldade em pensar ou se concentrar (às vezes chamada de 'névoa cerebral'), dificuldade em encontrar palavras",
+        "Dor nas articulações crônica ou recorrente",
+        "Problemas de sono"
+    ],
+    "Febre Q": [],
+    "Dengue": [
+        "Fadiga",
+        "Sintomas gripais, incluindo dor muscular, dor de cabeça, sudorese, irritabilidade e sensação geral de doença",
+        "Sintomas que pioram após esforço físico ou mental (também conhecido como 'mal-estar pós-esforço')",
+        "Dificuldade em pensar ou se concentrar (às vezes chamada de 'névoa cerebral'), dificuldade em encontrar palavras",
+        "Dor nas articulações crônica ou recorrente",
+        "Problemas de sono"
+    ],
+    "Ebola": [
+        "Fadiga",
+        "Sintomas gripais, incluindo dor muscular, dor de cabeça, sudorese, irritabilidade e sensação geral de doença",
+        "Sintomas que pioram após esforço físico ou mental (também conhecido como 'mal-estar pós-esforço')",
+        "Dificuldade em pensar ou se concentrar (às vezes chamada de 'névoa cerebral'), dificuldade em encontrar palavras",
+        "Dor nas articulações crônica ou recorrente",
+        "Problemas de sono"
+    ],
+    "Mononucleose Infecciosa (Epstein-Barr)": [
+        "Fadiga",
+        "Sintomas gripais, incluindo dor muscular, dor de cabeça, sudorese, irritabilidade e sensação geral de doença",
+        "Sintomas que pioram após esforço físico ou mental (também conhecido como 'mal-estar pós-esforço')",
+        "Dificuldade em pensar ou se concentrar (às vezes chamada de 'névoa cerebral'), dificuldade em encontrar palavras",
+        "Dor nas articulações crônica ou recorrente",
+        "Problemas de sono"
+    ],
+    "COVID-19": [
+        "Doença grave em pessoas grávidas",
+        "Complicações na gravidez",
+        "Risco para o bebê em desenvolvimento"
+    ],
+    "Febre do Nilo Ocidental": [
+        "Fadiga",
+        "Sintomas gripais, incluindo dor muscular, dor de cabeça, sudorese, irritabilidade e sensação geral de doença",
+        "Sintomas que pioram após esforço físico ou mental (também conhecido como 'mal-estar pós-esforço')",
+        "Dificuldade em pensar ou se concentrar (às vezes chamada de 'névoa cerebral'), dificuldade em encontrar palavras",
+        "Dor nas articulações crônica ou recorrente",
+        "Problemas de sono"
+    ],
+    "Infecção por Campylobacter": [],
+    "Encefalomielite Miálgica/Síndrome da Fadiga Crônica (EM/SFC)": [
+        "Fadiga",
+        "Sintomas gripais, incluindo dor muscular, dor de cabeça, sudorese, irritabilidade e sensação geral de doença",
+        "Sintomas que pioram após esforço físico ou mental (também conhecido como 'mal-estar pós-esforço')",
+        "Dificuldade em pensar ou se concentrar (às vezes chamada de 'névoa cerebral'), dificuldade em encontrar palavras",
+        "Dor nas articulações crônica ou recorrente",
+        "Problemas de sono"
+    ],
+    "Lesão Cerebral Traumática (LCT)": [
+        "Problemas de saúde a curto ou longo prazo",
+        "Dificuldade de desenvolvimento em crianças",
+        "Limitação na participação escolar e em atividades físicas em crianças"
+    ],
+    "Lesão Cerebral Traumática Leve (Concussão)": [
+        "Sintomas de curto prazo",
+        "Recuperação em algumas semanas ou meses"
+    ],
+    "Lesão Cerebral Traumática Moderada ou Grave": [
+        "Efeitos a longo prazo ou permanentes",
+        "Necessidade de cuidados contínuos, como serviços de reabilitação"
+    ],
+    "Doença Debilitante Crônica (CWD)": [
+        "Comportamento estranho",
+        "Aspecto doente"
+    ],
+    "Intoxicação por Maré Vermelha por Karenia brevis": [
+        "Tosse",
+        "Espirros",
+        "Falta de ar",
+        "Dor de garganta",
+        "Irritação ocular",
+        "Erupção cutânea",
+        "Crises de asma",
+        "Náusea",
+        "Vômito",
+        "Diarreia",
+        "Dor de estômago",
+        "Dormência nos lábios, língua e garganta",
+        "Tontura"
+    ],
+    "Intoxicação por Azaspiracid": [
+        "Náusea",
+        "Vômito",
+        "Diarreia",
+        "Dor de estômago"
+    ],
+    "Intoxicação por Ciguatera": [
+        "Náusea",
+        "Vômito",
+        "Diarreia",
+        "Dor de estômago",
+        "Sensações anormais de calor e frio",
+        "Dor",
+        "Fraqueza",
+        "Pressão arterial baixa"
+    ],
+    "Intoxicação Diarreica por Marisco": [
+        "Náusea",
+        "Vômito",
+        "Diarreia",
+        "Dor de estômago",
+        "Calafrios",
+        "Dor de cabeça",
+        "Febre"
+    ],
+    "Intoxicação por Ácido Domóico e Intoxicação Amnésica por Marisco": [
+        "Vômito ou diarreia",
+        "Falta de ar",
+        "Batimento cardíaco irregular",
+        "Sensações anormais de calor e frio",
+        "Perda de memória",
+        "Sensação de desorientação",
+        "Convulsões ou possivelmente coma",
+        "Possível perda de memória (amnésia)"
+    ],
+    "Intoxicação Paralisante por Marisco": [
+        "Náusea e vômito",
+        "Diarreia",
+        "Falta de ar",
+        "Batimento cardíaco irregular",
+        "Dormência na boca e lábios",
+        "Fraqueza",
+        "Paralisia muscular (não conseguir mover uma ou mais partes do corpo)"
+    ],
+    "Picadas de Percevejos": [
+        "Irritação",
+        "Coceira",
+        "Marcas de mordida pequenas",
+        "Reações alérgicas graves (raras)",
+        "Insônia",
+        "Ansiedade",
+        "Problemas de pele por coçar",
+        "Marcas de mordida aumentadas",
+        "Inchaços dolorosos no local da mordida",
+        "Anafilaxia (em casos raros)"
+    ],
+    "Infecção Secundária da Pele": [
+        "Pode ocorrer devido a coceira intensa de picadas de percevejos"
+    ],
+    "Doença de Creutzfeldt-Jakob (DCJ)": [
+        "Demência",
+        "Dificuldade para caminhar",
+        "Movimentos bruscos repentinos",
+        "Perturbações visuais"
+    ],
+    "Botulismo": [
+        "Dificuldade em respirar",
+        "Paralisia muscular",
+        "Morte"
+    ],
+    "Botulismo Alimentar": [
+        "Causado pela ingestão de alimentos contaminados com a toxina botulínica",
+        "Fontes comuns são alimentos caseiros que foram enlatados, conservados ou fermentados inadequadamente",
+        "Alimentos comprados em lojas também podem ser contaminados, embora seja incomum"
+    ],
+    "Botulismo por Feridas": [
+        "Ocorre quando os esporos entram em uma ferida e produzem a toxina",
+        "Pessoas que injetam drogas ilícitas têm maior chance de desenvolver botulismo por feridas",
+        "Pessoas que sofreram uma lesão traumática, como um acidente de moto, ou cirurgia também podem desenvolver botulismo por feridas"
+    ],
+    "Botulismo Infantil": [
+        "Ocorre quando os esporos entram no intestino do bebê, crescem e produzem a toxina",
+        "As razões para isso ainda não são totalmente compreendidas"
+    ],
+    "Botulismo Iatrogênico": [
+        "Pode acontecer se muita toxina botulínica for injetada por razões cosméticas, como para rugas",
+        "Também pode acontecer se muita toxina for injetada por razões médicas, como para enxaquecas"
+    ],
+    "Toxemia Intestinal do Adulto": [
+        "Também conhecido como colonização intestinal do adulto",
+        "Um tipo muito raro de botulismo",
+        "Ocorre quando os esporos da bactéria entram no intestino de um adulto, crescem e produzem a toxina (semelhante ao botulismo infantil)",
+        "As causas ainda não são totalmente compreendidas",
+        "Pessoas com problemas de saúde graves que afetam o intestino podem ter maior probabilidade de adoecer"
+    ],
+    "Intoxicação Alimentar por Clostridium Perfringens": [
+        "Diarreia"
+    ],
+    "Infecção por Clostridium sordellii": [
+        "Pneumonia",
+        "Endocardite",
+        "Artrite",
+        "Peritonite",
+        "Mionecrose",
+        "Bacteremia",
+        "Sepse",
+        "Náusea",
+        "Vômito",
+        "Diarreia",
+        "Dor abdominal sem febre",
+        "Síndrome do choque tóxico"
+    ],
+    "Hemofilia A": [
+        "Sangramento após a circuncisão do pênis que dura muito tempo",
+        "Sangramento que dura muito tempo após a coleta de sangue ou punção no calcanhar (picar o calcanhar do bebê para coletar sangue para testes de triagem neonatal)",
+        "Sangramento na cabeça (couro cabeludo ou cérebro) após um parto difícil ou após o uso de dispositivos ou instrumentos especiais para ajudar no parto do bebê (por exemplo, vácuo ou fórceps)",
+        "Hematomas incomuns, elevados ou em grande número"
+    ],
+    "Hemofilia B": [],
+    "Hemofilia": [
+        "Histórico familiar de sangramento, como após cirurgia ou lesão, ou mortes inexplicáveis entre irmãos, irmãs ou parentes do sexo masculino, como tios maternos, avôs ou primos",
+        "Sintomas de sangramento ao nascimento",
+        "Hematomas incomuns quando a criança começa a ficar em pé ou engatinhar",
+        "Problemas graves de sangramento logo no início da vida (em casos graves)",
+        "Tempo de coagulação do sangue mais longo (medido pelo TTPA)",
+        "Níveis baixos de fator VIII (8) ou fator IX (9) no sangue (confirmado por testes de fator de coagulação)"
+    ],
+    "Abestosis": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Silicose": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose dos Trabalhadores do Carvão (Pneumoconiose dos Mineiros)": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose por Poeira Mista": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Bisinose": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose por Alumínio": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose por Antimônio": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose por Bário": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose por Grafite": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose por Ferro": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose por Caulim": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose por Mica": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose por Talco": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Resfriado": [
+        "Coriza ou congestão nasal",
+        "Tosse",
+        "Espirros",
+        "Dor de garganta",
+        "Dor de cabeça",
+        "Dores leves no corpo",
+        "Febre (geralmente baixa em crianças maiores e adultos)"
+    ],
+    "Infecção do ouvido médio": [
+        "Infecção atrás do tímpano"
+    ],
+    "Sinusite": [],
+    "Ataques de asma": [
+        "Chiado no peito",
+        "Dificuldade em respirar"
+    ],
+    "Bronquiolite": [
+        "Infecção das pequenas vias aéreas"
+    ],
+    "Bronquite": [
+        "Infecção das grandes vias aéreas"
+    ],
+    "Piora de condições médicas crônicas": [
+        "Doença pulmonar obstrutiva crônica",
+        "Insuficiência cardíaca"
+    ],
+    "Vírus sincicial respiratório (VSR)": [
+        "Dificuldade para respirar",
+        "Dificuldade para se alimentar",
+        "Necessidade de suporte respiratório",
+        "Necessidade de hidratação hospitalar"
+    ],
+    "Febre Maculosa do Colorado": [
+        "Febre",
+        "Calafrios",
+        "Dor de cabeça",
+        "Dores no corpo",
+        "Cansaço",
+        "Fraqueza (pode durar várias semanas)",
+        "Fadiga (pode durar várias semanas)",
+        "Doença grave que afeta o sistema nervoso central (em casos raros)"
+    ],
+    "Infecção no ouvido médio": [
+        "Infecção atrás do tímpano"
+    ],
+    "Vírus sincicial respiratório (RSV)": [],
+    "Antraz": [],
+    "Tuberculose Bovina": [],
+    "Brucelose": [],
+    "Dermatofilose": [
+        "Lã Empelotada",
+        "Podridão do Pé de Morango",
+        "Queimadura da Chuva",
+        "Podridão da Chuva"
+    ],
+    "Vírus Orf": [
+        "Infecção Bucal"
+    ],
+    "Criptosporidiose": [],
+    "Infecção por E. coli": [],
+    "Leptospirose": [],
+    "Infecção por Listeria": [],
+    "MRSA": [],
+    "Raiva": [],
+    "Tinea": [],
+    "Infecção por Salmonella": [],
+    "Estomatite Vesicular": [],
+    "Infecção por Parvovírus B19": [
+        "Sintomas semelhantes aos da gripe",
+        "Erupções cutâneas",
+        "Dores nas articulações",
+        "Febre",
+        "Dor de cabeça",
+        "Tosse",
+        "Dor de garganta",
+        "Erupção cutânea vermelha no rosto (\"bochecha esbofeteada\")",
+        "Erupção cutânea generalizada no peito, costas, nádegas, braços e pernas",
+        "Erupção cutânea com coceira",
+        "Dor e inchaço nas articulações",
+        "Contagem baixa de células sanguíneas (anemia)"
+    ],
+    "Quinta Doença (Eritema Infeccioso)": [
+        "Erupção cutânea vermelha no rosto (\"bochecha esbofeteada\")"
+    ],
+    "Síndrome de Poliartopatia": [
+        "Dor e inchaço nas articulações"
+    ],
+    "Complicações da Infecção por Parvovírus B19": [
+        "Problemas neurológicos",
+        "Problemas nas articulações",
+        "Problemas no sistema sanguíneo",
+        "Queda grave na contagem de células sanguíneas (anemia)",
+        "Aborto espontâneo (durante a gravidez)"
+    ]
+}
