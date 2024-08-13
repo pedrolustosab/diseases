@@ -1,11 +1,1167 @@
 {
-    "Aneurisma Aórtico Torácico": [
+    "O aborto": [
+        "Aborto incompleto nem todos os tecidos da gravidez foram removidos",
+        "Hemorragia hemorrágica intensa",
+        "Infecção",
+        "Orifício de perfuração uterina no útero",
+        "Danos aos órgãos genitais e internos",
+        "Sofrimento mental e estigma"
+    ],
+    "Abuso de pessoas idosas": [
+        "Lesões físicas",
+        "Mortalidade Prematura",
+        "Depressão",
+        "Função cognitiva anormal"
+    ],
+    "Anemia": [
+        "Cansaço tonturas vertigens",
+        "Extremidades frias;",
+        "Dor de cabeça",
+        "Dispneia de esforço",
+        "Membranas mucosas pálidas nariz boca etc",
+        "Pele pálida sob as unhas",
+        "Respiração rápida ritmo cardíaco acelerado",
+        "Tontura ao ficar em pé",
+        "Contusões fáceis"
+    ],
+    "Transtornos ansiosos": [
+        "Medo ou preocupação excessivos",
+        "Dificuldade de concentração",
+        "Irritabilidade e inquietação",
+        "Náuseas ou desconforto abdominal",
+        "Palpitações cardíacas",
+        "Tremor ou tremor",
+        "Distúrbios do sono.",
+        "Senso de perigo ou desgraça iminente",
+        "Evitar situações indutoras de ansiedade"
+    ],
+    "Asma": [
+        "Tosse persistente, especialmente à noite",
+        "Chiado ao exalarinchar",
+        "Falta de ar mesmo em repouso",
+        "Dor torácica"
+    ],
+    "Vaginose bacteriana": [
+        "Corrimento fino branco-acinzentado",
+        "Odor vaginal de Fishymusty",
+        "Irritação de prurido vaginal",
+        "Queimadura ao urinar"
+    ],
+    "Botulismo": [
+        "Dificuldade em respirar",
+        "Paralisia muscular",
+        "Morte"
+    ],
+    "Cancro da mama": [
+        "Nódulo ou espessamento mamário muitas vezes indolor",
+        "Alterações na forma ou aparência do tamanho dos seios",
+        "Ondulação da pele vermelhidão corrosão",
+        "Alterações de mamilo ou aréola",
+        "Descarga anormal ou com sangue no mamilo",
+        "Inchaço dos gânglios linfáticos sob o braço",
+        "Dor óssea",
+        "Dores de Cabeça"
+    ],
+    "Chikungunya": [
+        "Fadiga",
+        "Sintomas gripais, incluindo dor muscular, dor de cabeça, sudorese, irritabilidade e sensação geral de doença",
+        "Sintomas que pioram após esforço físico ou mental (também conhecido como 'mal-estar pós-esforço')",
+        "Dificuldade em pensar ou se concentrar (às vezes chamada de 'névoa cerebral'), dificuldade em encontrar palavras",
+        "Dor nas articulações crônica ou recorrente",
+        "Problemas de sono"
+    ],
+    "maus tratos a menor": [
+        "Lesões, incluindo lesões na cabeça",
+        "Deficiência grave",
+        "Perturbação de stress pós-traumático",
+        "Ansiedade",
+        "Depressão",
+        "Infecções sexualmente transmissíveis ISTs, incluindo HIV",
+        "Distúrbios ginecológicos em adolescentes",
+        "Gravidez indesejada em adolescentes",
+        "Deficiência cognitiva e académica",
+        "Aumento do risco de abuso de álcool e drogas e tabagismo",
+        "Obesidade",
+        "Problemas de saúde física e mental na idade adulta"
+    ],
+    "Clamídia": [
+        "Corrimento vaginal anormal",
+        "Sensação de queimação ao urinar",
+        "Corrimento peniano",
+        "Dor e inchaço em um ou ambos os testículos",
+        "Dor retal",
+        "Sangramento retal"
+    ],
+    "Cólera": [
+        "Diarreia aquosa",
+        "Vômito",
+        "Câimbras nas pernas",
+        "Desidratação",
+        "Choque"
+    ],
+    "Cromoblastmicose": [
+        "Lesões semelhantes a verrugas nos antebraços das pernas da pele exposta",
+        "As lesões podem ser grandes cm planas e com cicatrizes",
+        "Geralmente indolor e não coça, a menos que seja grave",
+        "Manchas escuras nas lesões",
+        "Casos graves inchaço dos membros desconforto infecções odor",
+        "Cancro da pele de risco a longo prazo",
+        "Raramente se espalha para além da área afetada"
+    ],
+    "Punição corporal e saúde": [
+        "Dor",
+        "Tristeza",
+        "Receio",
+        "Raiva",
+        "Vergonha",
+        "Culpa",
+        "Níveis de stress",
+        "Problemas do Sistema Nervoso",
+        "Problemas cardiovasculares",
+        "Transtornos Nutricionais",
+        "Alterações cerebrais",
+        "Comportamento anormal",
+        "Ansiedade",
+        "Depressão",
+        "Baixa autoestima",
+        "Tendências à automutilação",
+        "Dependência química",
+        "Hostilidade",
+        "Humor alterado",
+        "Delirium",
+        "Baixa? competência social",
+        "Fraco Desempenho Académico",
+        "Comportamento anti-social",
+        "Agressividade,",
+        "Aumento do risco de doenças crónicas, cancro, doenças cardíacas, etc.",
+        "Aumento do risco de obesidade"
+    ],
+    "Febre hemorrágica da Crimeia": [
+        "Febre súbita dor muscular tonturas dor no pescoço e rigidez",
+        "Dor nas costas dor de cabeça dor nos olhos sensibilidade à luz",
+        "Náuseas vómitos diarreia dor abdominal dor de garganta",
+        "Mudanças bruscas de humor confusão seguida de sonolência depressão",
+        "Dor abdominal superior direita aumento do fígado",
+        "Ritmo cardíaco acelerado gânglios linfáticos aumentados",
+        "Erupções vermelhas ou roxas na pele e membranas mucosas",
+        "Hepatite deterioração renal insuficiência hepática ou pulmonar casos graves"
+    ],
+    "Demência": [
+        "Esquecer eventos ou coisas recentes",
+        "Deslocar artigos que se perdem facilmente",
+        "Confusão mesmo em ambientes familiares",
+        "Dificuldade de desorientação do tempo com resolução de problemas e decisões",
+        "Dificuldades de conversação e busca de palavras",
+        "Problemas com tarefas familiares erro de julgamento visual à distância",
+        "Ansiedade tristeza ou raiva relacionada à perda de memória",
+        "A personalidade muda o comportamento inadequado",
+        "O afastamento social e ocupacional reduziu a empatia"
+    ],
+    "Dengue e dengue grave": [
+        "Sintomas leves ou inexistentes na maioria dos casos",
+        "febre alta",
+        "- dor de cabeça grave",
+        "Dor retro-orbitária",
+        "Dor nos músculos e articulações",
+        "Hematoma, hipotensão,",
+        "Amígdalas inchadas",
+        "Erupção cutânea",
+        "Dor abdominal intensa após febre",
+        "Vómitos persistentes",
+        "Respiração acelerada",
+        "Sangramento das gengivas",
+        "Agitação de fadiga",
+        "Sangue no vaso vómito",
+        "Sede intensa",
+        "Pele pálida e fria",
+        "Fraqueza"
+    ],
+    "Diabetes": [
+        "Sede excessiva",
+        "Micção frequente",
+        "Glaucoma",
+        "Fadiga",
+        "Perda de peso inexplicada.",
+        "Aumento do risco de ataque cardíaco acidente vascular cerebral insuficiência renal",
+        "Perda de visão",
+        "Problemas nos pés úlceras risco de amputação"
+    ],
+    "Difteria": [
+        "Dor de garganta",
+        "Febre",
+        "Glândulas do pescoço inchadas",
+        "Fraqueza",
+        "Revestimento cinza espesso na garganta",
+        "Desconforto respiratório ",
+        "Disfagia",
+        "Inflamação do coração",
+        "Radiculite"
+    ],
+    "E. coli": [
+        "Cólicas abdominais",
+        "Diarreia, às vezes com sangue;",
+        "Febre",
+        "Vómitos",
+        "Insuficiência renal aguda em casos graves",
+        "Anemia hemolítica em casos graves",
+        "Trombocitopenia plaquetas sanguíneas baixas em casos graves",
+        "Convulsões em casos graves",
+        "Acidente vascular cerebral em casos graves",
+        "Coma em casos graves"
+    ],
+    "Doença de Ebola": [
+        "Febre",
+        "Fadiga",
+        "Dor muscular",
+        "Dor de cabeça",
+        "Dor de garganta",
+        "Vómitos",
+        "Diarreia",
+        "Erupção cutânea",
+        "Hemorragia interna e externa"
+    ],
+    "Equinococose": [
+        "Sem sintomas assintomáticos por anos",
+        "Dor abdominal",
+        "Náuseas e vômitos",
+        "Tosse crônica",
+        "Dor torácica",
+        "Respiração ofegante",
+        "Anorexia (perda de apetite)",
+        "Perda ponderal",
+        "Fraqueza",
+        "Insuficiência hepática em casos graves"
+    ],
+    "Epilepsia": [
+        "Perda de consciência",
+        "Perda de consciência",
+        "Disfunção do movimento",
+        "Distúrbios sensoriais visão audição paladar",
+        "Alterações do humor",
+        "Delirium",
+        "Aumento do risco de lesões físicas",
+        "Maior probabilidade de ansiedade e depressão",
+        "Elevado risco de morte prematura"
+    ],
+    "Infecções por trematódeos transmitidos por alimentos": [
+        "Febre",
+        "Dor no quadrante superior direito",
+        "Fibrose",
+        "Lesões Hepáticas",
+        "Colangiocarcinoma do ducto biliar",
+        "Náusea",
+        "Fígado inchado",
+        "Exantema",
+        "dores abdominais intensas,",
+        "Dor intermitente",
+        "Icterícia",
+        "Anemia",
+        "Pancreatite",
+        "Cálculos biliares",
+        "Cirrose hepática",
+        "Tosse crónica com expectoração manchada de sangue",
+        "Dor torácica",
+        "Dispneia falta de ar",
+        "- Derrame pleural (fluído em volta dos pulmões).",
+        "Pulmão colapsado por pneumotórax",
+        "Dores de Cabeça",
+        "Deficiência visual",
+        "Convuslões epiléticas",
+        "HEMORRAGIA CEREBRAL"
+    ],
+    "Hepatite A": [
+        "Urina amarela escura",
+        "Diarreia",
+        "Fadiga",
+        "Febre",
+        "Fezes cinzentas ou cor de argila",
+        "Dor nas articulações",
+        "Perda do apetite",
+        "Náuseas e/ou vómitos",
+        "Dor abdominal",
+        "Olhos e pele amarelados, chamados icterícia"
+    ],
+    "Hepatite B": [
+        "Urina amarela escura",
+        "Diarreia",
+        "Fadiga",
+        "Febre",
+        "Fezes cinzentas ou cor de argila",
+        "Dor nas articulações",
+        "Perda do apetite",
+        "Náuseas e/ou vómitos",
+        "Dor abdominal",
+        "Olhos e pele amarelados, chamados icterícia"
+    ],
+    "Hepatite C": [
+        "Urina amarela escura",
+        "Fadiga",
+        "Febre",
+        "Fezes cinzentas ou cor de argila",
+        "Dor nas articulações",
+        "Perda do apetite",
+        "Náuseas e/ou vómitos",
+        "Dor no abdómen (barriga)",
+        "Icterícia (olhos e pele amarelados)"
+    ],
+    "Hepatite D": [
+        "Febre",
+        "Fadiga",
+        "Perda do apetite",
+        "Náusea",
+        "Vómitos",
+        "Urina escura",
+        "Fezes pálidas",
+        "icterícia (amarelecimento da pele e dos olhos)",
+        "hepatite fulminante"
+    ],
+    "Hepatite E": [
+        "semana incubação média  semanas",
+        "Febre leve",
+        "Diminuição do apetite.",
+        "Náuseas e vômitos",
+        "Dor abdominal",
+        "Erupção cutânea com prurido ou dor nas articulações",
+        "icterícia (amarelecimento da pele e dos olhos)",
+        "Urina escura e fezes claras",
+        "Fígado sensível aumentado",
+        "Sintomas nas últimas  semanas",
+        "Raramente insuficiência hepática aguda hepatite fulminante"
+    ],
+    "vírus herpes simplex": [
+        "Sem sintomas ou sintomas leves",
+        "Bolhas ou úlceras recorrentes dolorosas",
+        "Febre dores no corpo e inchaço dos gânglios linfáticos novas infecções",
+        "Formigamento, coceira ou sensação de queimação antes que as feridas apareçam",
+        "Herpes oral Bolhas herpes labial ou úlceras ao redor da boca ou lábios",
+        "Herpes genital Bolhas ou úlceras ao redor dos órgãos genitais ou ânus",
+        "Feridas e bolhas dolorosas que podem romper o lodo e a crosta",
+        "Primeira infecção Febre dores no corpo dor de garganta herpes oral dores de cabeça inchaço dos gânglios linfáticos",
+        "Recorrências Surtos mais curtos e menos graves"
+    ],
+    "Vírus II T-Linfotrópico Humano": [
+        "Sem sintomas na maioria dos casos",
+        "Nódulos linfáticos inchados",
+        "Hepatoesplenomegalia fígado e baço aumentados",
+        "Hipercalcemia níveis elevados de cálcio no sangue",
+        "Envolvimento ósseo do pulmão",
+        "Fraqueza progressiva dos membros inferiores",
+        "Lombalgia",
+        "Disfunção intestinal e da bexiga",
+        "Fraqueza muscular hiperreflexia clonus",
+        "MARCHA ESPASTICA",
+        "Inflamação ocular por uveíte",
+        "Problemas de pele dermatite",
+        "Problemas respiratórios bronquite bronquiolite",
+        "Dores nas articulações/artrite",
+        "Fadiga",
+        "Problemas digestivos colite"
+    ],
+    "Hipertensão": [
+        "A maioria das pessoas com hipertensão não apresenta sintomas",
+        "Dores de cabeça severas",
+        "Dor torácica",
+        "Tonturas",
+        "Dificuldade respiratória",
+        "Náuseas e vômitos",
+        "alterações da visão.",
+        "Ansiedade",
+        "Confusão",
+        "Zumbido nos ouvidos zumbido",
+        "Hemorragias nasais",
+        "Batimento cardíaco irregular."
+    ],
+    "Encefalite japonesa": [
+        "Febre leve dor de cabeça",
+        "Dor de cabeça febril alta desorientação do pescoço rígida convulsões convulsões paralisia",
+        "Crianças Dor de estômago vómitos",
+        "Paralisia de longo prazo convulsões problemas de fala"
+    ],
+    "Febre de Lassa": [
+        "Febre",
+        "Fraqueza",
+        "Dor de cabeça",
+        "Dor de garganta",
+        "Dor muscular",
+        "Dor torácica",
+        "Náuseas, vómitos e diarreia",
+        "Tosse",
+        "Dor abdominal",
+        "Edema facial",
+        "Fluido nos pulmões",
+        "Sangramento na boca nariz vagina trato GI",
+        "Tensão baixa",
+        "Choque",
+        "Convulsões",
+        "Tremor",
+        "Desorientação",
+        "COMA",
+        "Surdez",
+        "Queda de cabelo",
+        "Alterações da"
+    ],
+    "Cancro do pulmão": [
+        "Tosse",
+        "Dor torácica",
+        "Respiração ofegante",
+        "Expetorar sangue ao tossir",
+        "Fadiga",
+        "Perda de peso inexplicada.",
+        "Infecções pulmonares recorrentes"
+    ],
+    "Filariose Linfática": [
+        "Sem sintomas, mas ainda prejudicial internamente",
+        "Danos ao sistema linfático e rins",
+        "SISTEMA IMUNOLÓGICO ENFRAQUECIDO",
+        "Linfoedema de inchaço tecidual",
+        "Elefantíase espessante do skintissue",
+        "Inchaço escrotal hidrocele",
+        "Inchaço dos seios e genitais",
+        "Inflamação dos gânglios linfáticos e vasos linfáticos da pele",
+        "Infecções bacterianas da pele"
+    ],
+    "Paludismo": [
+        "Febre",
+        "Dor de cabeça",
+        "Calafrios",
+        "Fadiga",
+        "Estado anormal de consciência",
+        "Convulsões",
+        "dificuldade respiratória",
+        "Urina de sangue escuro",
+        "Icterícia",
+        "Hemorragia anómala"
+    ],
+    "Doença de Marburg": [
+        "Período de Incubação",
+        "Febre alta súbita, dor de cabeça intensa e fadiga",
+        "Dores musculares",
+        "Diarreia aquosa dor abdominal cólicas náuseas vómitos",
+        "Aparência fantasmagórica letargia",
+        "Erupção cutânea sem comichão",
+        "Sangramento grave interno e externo",
+        "febre alta",
+        "Confusão irritabilidade agressão",
+        "Orquite rara",
+        "A morte geralmente ocorre  dias após o início dos sintomas"
+    ],
+    "Sarampo": [
+        "Febre",
+        "Nariz congestionado",
+        "Tosse",
+        "Olhos vermelhos e lacrimejantes",
+        "Manchas brancas dentro das bochechas",
+        "Erupção cutânea que se espalha de face a corpo",
+        "Complicação de cegueira",
+        "Complicação de encefalite",
+        "Complicação de diarreia grave",
+        "Complicação de infecções de ouvido",
+        "Complicação de pneumonia"
+    ],
+    "Meningite": [
+        "Meningismo",
+        "Febre",
+        "Confusão ou estado mental alterado",
+        "Dores de Cabeça",
+        "Náuseas e vômitos",
+        "Convulsões menos frequentes",
+        "Coma menos frequente",
+        "Déficits neurológicos, por exemplo, perda auditiva, perda de visão, comprometimento cognitivo, fraqueza",
+        "Mãos e pés frios meningite bacteriana com sepse",
+        "Dor articular e muscular meningite bacteriana com sepse",
+        "Meningite bacteriana de respiração rápida com sepse",
+        "Diarreia meningite bacteriana com sepsia",
+        "Erupção cutânea roxa ou vermelha escura meningite bacteriana com sepse",
+        "Letargia e dificuldade em acordar crianças",
+        "Irritabilidade ou inconsolabilidade de bebés",
+        "Alimentação deficiente de bebés",
+        "Bebés de corpo rígido ou flexível",
+        "Inchaço na zona mole da fontanela da cabeça dos bebés"
+    ],
+    "Esclerose múltipla": [
+        "Problemas da visão",
+        "Dificuldade para andar ou se equilibrar",
+        "Dificuldade em pensar com clareza",
+        "Dormência ou fraqueza, especialmente nos membros",
+        "Rigidez muscular",
+        "Depressão",
+        "Disfunção sexual ou problemas de micção",
+        "Fadiga"
+    ],
+    "Vírus Nipah": [
+        "Febre",
+        "Dores de Cabeça",
+        "Dor muscular",
+        "Vómitos",
+        "Dor de garganta",
+        "Tonturas",
+        "Sonolência",
+        "Consciência alterada",
+        "Problemas neurológicos:",
+        "Pneumonia",
+        "Afecções respiratórias",
+        "Convulsões",
+        "COMA"
+    ],
+    "Obesidade e excesso de peso": [
+        "Doenças cardiovasculares",
+        "Diabetes",
+        "Cancros",
+        "Compromisso neurológico",
+        "Doença respiratória crónica",
+        "Disenteria",
+        "Problemas psicossociais estigma discriminação bullying",
+        "Desempenho escolar e comprometimento da qualidade de vida"
+    ],
+    "Oncocercose": [
+        "Prurido intenso",
+        "Alterações dermatológicas",
+        "Lesões oculares;",
+        "Deficiência visual",
+        "Cegueira",
+        "Nódulos sob a pele"
+    ],
+    "Osteoartrite": [
+        "Dor nas articulações",
+        "Inchaço à volta da articulação afetada",
+        "Rigidez especialmente pela manhã",
+        "Amplitude de movimento limitada",
+        "Fraqueza muscular",
+        "Dificuldade com as atividades físicas",
+        "Dor crónica e progressiva",
+        "Redução da qualidade de vida",
+        "Potencial para distúrbios do sono e impactos na saúde mental"
+    ],
+    "DOENCA DE PARKINSON": [
+        "Movimento lento",
+        "Tremor",
+        "Movimentos involuntários",
+        "Rigidez muscular",
+        "DIFICULDADE NA MARCHA",
+        "Perda de equilíbrio",
+        "Delirium",
+        "Alterações na saúde mental, por exemplo, ansiedade de depressão",
+        "Demência",
+        "Problemas do Sono",
+        "Dor",
+        "Distúrbios sensoriais, por exemplo, cheiro de visão",
+        "Dificuldades de fala e deglutição"
+    ],
+    "Peste": [
+        "Febre súbita e calafrios",
+        "Dores de cabeça e corpo",
+        "Fraqueza e fadiga",
+        "Náuseas e vómitos",
+        "Inflamação dolorosa dos gânglios linfáticos bubões",
+        "Feridas abertas cheias de pus",
+        "Tosse e dificuldade para respirar peste pneumônica"
+    ],
+    "Poliomielite": [
+        "Febre",
+        "Fadiga",
+        "Dor de cabeça",
+        "Vómitos",
+        "Torcicolo",
+        "Dor nas extremidades",
+        "Paralisia em casos graves"
+    ],
+    "Ovário poliquístico": [
+        "Ciclo menstrual irregular.",
+        "Infertilidade",
+        "Acne pele oleosa excesso DE pelos",
+        "Aumento de peso",
+        "Aumento do risco de diabetes hipertensão doença cardíaca cancro do endométrio",
+        "Saúde mental impacta ansiedade depressão imagem corporal negativa",
+        "Estigma social devido aos sintomas"
+    ],
+    "Raiva": [],
+    "Artrite reumatoide": [
+        "Dor nas articulações",
+        "Rigidez",
+        "Ternura",
+        "Inchaço",
+        "Vermelho",
+        "Fadiga",
+        "Mal-estar",
+        "Febre",
+        "Mau descanso",
+        "Perda do apetite",
+        "Depressão",
+        "Disfunção sexual",
+        "Aptidão física reduzida"
+    ],
+    "Rubéola": [
+        "Número de Casos",
+        "Febre baixa C",
+        "Náusea",
+        "Conjuntivite leve",
+        "Gânglios linfáticos inchados atrás das orelhas e pescoço",
+        "Artrite em adultos mais comum em mulheres",
+        "Dor articular em adultos mais comum em mulheres"
+    ],
+    "Sarna": [
+        "Coceira intensa, especialmente à noite",
+        "Linhas com coceira e inchaços na pele",
+        "Erupção cutânea, particularmente nas dobras da pele",
+        "Feridas por coçar",
+        "Crosta de pele grossa com crostas de sarna"
+    ],
+    "Esquistossomose": [
+        "Dor abdominal",
+        "Diarreia",
+        "Sangue nas fezes",
+        "AUMENTO DE VOLUME DO FIGADO",
+        "Acúmulo de líquido no abdómen",
+        "AUMENTO DE VOLUME DO BACO",
+        "Sangue na urina",
+        "danos renais",
+        "Fibrose da bexiga e do ureter",
+        "Câncer de bexiga",
+        "Lesão genital",
+        "Hemorragia vaginal",
+        "Relacao sexual dolorosa/dificil",
+        "Nódulos vulvares",
+        "Próstata da vesícula seminal e patologia de outros órgãos",
+        "Infertilidade",
+        "Anemia",
+        "atraso de crescimento",
+        "Capacidade de aprendizagem reduzida",
+        "Morte rara"
+    ],
+    "Esquizofrenia": [
+        "Crenças fixas apesar dos delírios de evidências contrárias",
+        "Experiências sensoriais sem estímulos externos alucinações",
+        "Sentir-se controlado por forças externas",
+        "Pensamentos e fala desarticulados",
+        "Comportamento incomum e sem propósito",
+        "Expressão emocional reduzida e retraimento social",
+        "Deficiências cognitivas memória atenção resolução DE problemas",
+        "Potencial para complicações de saúde física"
+    ],
+    "Sepsia": [
+        "Respiração rápida e frequência cardíaca",
+        "Respiração ofegante",
+        "Confusão ou desorientação",
+        "Dor ou desconforto extremo",
+        "Febre, tremores ou sensação de muito frio",
+        "Pele pegajosa ou suada"
+    ],
+    "Infecções helmínticas transmitidas pelo solo": [
+        "Geralmente sem sintomas com infecção leve",
+        "Diarreia e dor abdominal",
+        "Fraqueza da desnutrição crescimento prejudicado",
+        "Obstrução intestinal casos graves",
+        "Problemas de pele e gastrointestinais",
+        "Fatal se a disseminação da hiperinfecção ocorrer e não for tratada prontamente"
+    ],
+    "Spinal cord injury": [
+        "Perda parcial ou completa de sensação e movimento",
+        "Bexiga intestinal e problemas sexuais",
+        "Problemas de pressão arterial, frequência cardíaca e controle de temperatura",
+        "Espasticidade e dor crónica",
+        "Infecções úlceras por pressão problemas respiratórios",
+        "Disreflexia autonómica picos súbitos de pressão arterial",
+        "Coágulos sanguíneos de trombose venosa profunda",
+        "Osteoporose enfraquecimento ósseo",
+        "Depressão",
+        "Aumento do risco de mortalidade, especialmente no primeiro ano"
+    ],
+    "Esporotricose": [
+        "Nódulos e placas nos braços das pernas do rosto da pele exposta",
+        "As lesões cutâneas podem seguir os vasos linfáticos",
+        "Nódulos e placas podem ulcerar",
+        "Feridas na boca",
+        "Problemas nos olhos",
+        "Manchas vermelhas na pele eritema multiforme",
+        "Eritema/erupcao/exant geral/mult",
+        "Em casos raros artrite infecção respiratória meningite"
+    ],
+    "Sífilis": [
+        "Cancro dolorido indolor no ânus genital ou outras áreas",
+        "Erupção cutânea sem comichão, especialmente nas palmas das mãos e plantas dos pés",
+        "Lesões brancas ou cinzentas em áreas quentes e húmidas",
+        "Sem sintomas na fase latente",
+        "Problemas cerebrais e cardiovasculares na fase terciária se não tratados",
+        "Bebês erupções cutâneas inflamação de órgãos anemia articulações ósseas problemas neurológicos"
+    ],
+    "Tétano": [
+        "Cãibras na mandíbula ou incapacidade de abrir a boca",
+        "Espasmos musculares nas extremidades do abdómen",
+        "Espasmos musculares dolorosos repentinos desencadeados por ruído",
+        "Disfagia",
+        "Convulsões",
+        "Dor de cabeça",
+        "Febre e sudorese",
+        "Alterações na pressão arterial ou ritmo cardíaco acelerado",
+        "Incapacidade neonatal de sugar ou amamentar espasmos musculares excessivos de choro"
+    ],
+    "Tricomoníase": [
+        "Assintomático na maioria dos homens e mulheres",
+        "Corrimento vaginal purulento amarelo mulheres",
+        "Vermelhidão e dor na vagina mulheres",
+        "Dor durante a relação sexual e micção mulheres",
+        "Corrimento vaginal espumoso amarelado-esverdeado visível durante as mulheres do exame",
+        "Irritação peniana homens",
+        "Uretrite masculina"
+    ],
+    "Tuberculose": [
+        "Não tem sintomas",
+        "Não é possível espalhar a tuberculose para outras pessoas",
+        "Pode ficar doente com tuberculose ativa no futuro se o seu sistema imunológico ficar fraco por outro motivo",
+        "Necessidade de tomar medicamentos para evitar ficar doente com tuberculose ativa no futuro",
+        "Os sintomas gerais podem incluir:",
+        "Arrepios da febre",
+        "Suores noturnos (transpiração intensa durante o sono)",
+        "Perder peso sem tentar",
+        "Perda do apetite",
+        "Fraqueza ou fadiga",
+        "Arrepios da febre",
+        "Suores noturnos (transpiração intensa durante o sono)",
+        "Perder peso sem tentar",
+        "Perda do apetite",
+        "Fraqueza ou fadiga",
+        "Os sintomas da tuberculose nos pulmões podem incluir:",
+        "Uma tosse que dura mais de 3 semanas",
+        "Tossir sangue ou expectoração (um muco espesso dos pulmões)",
+        "Dor torácica",
+        "Uma tosse que dura mais de 3 semanas",
+        "Tossir sangue ou expectoração (um muco espesso dos pulmões)",
+        "Dor torácica"
+    ],
+    "Tungíase": [
+        "Disco esbranquiçado com um centro escuro sob a pele",
+        "Comichão",
+        "Eritema (vermelhidão)",
+        "edema (inchaço)",
+        "Descamação descamação da pele",
+        "Dor",
+        "Abcessos",
+        "Úlcera",
+        "Linfangite inflamação dos vasos linfáticos",
+        "Inchaço do linfedema devido ao bloqueio linfático",
+        "Deformação e perda da unha",
+        "Necrose tecidual morte tecidual",
+        "Dificuldade em andar"
+    ],
+    "Febre tifoide": [
+        "Febre alta prolongada",
+        "Fadiga",
+        "Dor de cabeça",
+        "Náusea",
+        "Dor abdominal",
+        "Obstipação ou diarreia.",
+        "Possível erupção cutânea"
+    ],
+    "Violência contra as mulheres": [
+        "Morte, homicídio ou suicídio",
+        "Danos",
+        "GRAVIDEZ INESPERADA",
+        "Abortos provocados",
+        "Problemas ginecológicos",
+        "Infecções sexualmente transmissíveis, incluindo HIV",
+        "Aborto espontâneo",
+        "Natimorto (nascimento de uma criança morta)",
+        "Início precoce da expulsão",
+        "Bebés de baixo peso ao nascer",
+        "Depressão",
+        "Estresse Pós-Traumático",
+        "Ansiedade",
+        "DIFICULDADE EM ADORMECER",
+        "Distúrbio alimentar",
+        "Tentativas de Suicídio",
+        "Dores de Cabeça",
+        "Síndromes dolorosas dor nas costas dor abdominal dor pélvica crônica",
+        "Distúrbios gastrointestinais",
+        "Diminuição de mobilidade",
+        "Má saúde geral",
+        "Aumento do tabagismo",
+        "Dependência química",
+        "Comportamentos sexuais de risco"
+    ],
+    "Febre do Oeste do Nilo": [
+        "Nenhum sintoma assintomático em  de casos",
+        "Febre",
+        "Dor de cabeça",
+        "Cansaço",
+        "Dores no corpo ",
+        "Náuseas e vômitos",
+        "Erupção cutânea às vezes",
+        "Glândulas linfáticas inchadas",
+        "Meningismo",
+        "Estupor",
+        "Desorientação",
+        "COMA",
+        "Tremores",
+        "Convulsões",
+        "Fraqueza muscular",
+        "Paralisia"
+    ],
+    "Bouba": [
+        "Tumor semelhante a uma verruga cheio de bactérias",
+        "Ulceração do tumor",
+        "Múltiplas lesões amarelas elevadas",
+        "Dor óssea e inchaço, especialmente em ossos longos e dedos"
+    ],
+    "Febre amarela": [
+        "dias de incubação",
+        "Febre dor muscular dor de cabeça perda de apetite náuseas vómitos",
+        "Os sintomas desaparecem após  dias para a maioria",
+        "Alguma fase tóxica dentro de  horas após a recuperação",
+        "Febre alta problemas hepáticos e renais icterícia urina escura dor abdominal vômito",
+        "Sangramento possível",
+        "mortalidade na fase tóxica dentro de  dias"
+    ],
+    "Zika": [
+        "Muitas vezes sem sintomas",
+        "Os sintomas aparecem  dias após a infecção",
+        "Erupção cutânea febre olhos vermelhos",
+        "Dor nos músculos e articulações",
+        "Fadiga e dor de cabeça",
+        "Sintomas últimos  dias",
+        "Teste de laboratório necessário para o diagnóstico"
+    ],
+    "VIH": [
+        "Febre",
+        "Calafrios",
+        "Erupção cutânea",
+        "Suores noturnos (transpiração intensa durante o sono)",
+        "Dores musculares",
+        "Dor de garganta",
+        "Fadiga",
+        "Nódulos linfáticos inchados",
+        "Úlceras na boca"
+    ],
+    "Mielite Flácida Aguda": [
+        "Sensação de fraqueza nos braços ou pernas",
+        "Perda de tônus muscular e reflexos",
+        "Inclinação/fraqueza facial",
+        "Problemas para mover os olhos",
+        "Ptose",
+        "Dificuldade para engolir",
+        "Fala incompreensível",
+        "Dor nos braços, pernas, costas ou pescoço"
+    ],
+    "Gripe Aviária": [
+        "Febre (mas nem todos têm febre)",
+        "Tosse",
+        "Dor de garganta",
+        "corrimento do nariz ou nariz tapado",
+        "Dores musculares ou corporais",
+        "Fadiga",
+        "Dores de Cabeça",
+        "Vermelhidão ocular (conjuntivite)",
+        "Dificuldade em respirar",
+        "Diarreia"
+    ],
+    "Dengue": [
+        "Fadiga",
+        "Sintomas gripais, incluindo dor muscular, dor de cabeça, sudorese, irritabilidade e sensação geral de doença",
+        "Sintomas que pioram após esforço físico ou mental (também conhecido como 'mal-estar pós-esforço')",
+        "Dificuldade em pensar ou se concentrar (às vezes chamada de 'névoa cerebral'), dificuldade em encontrar palavras",
+        "Dor nas articulações crônica ou recorrente",
+        "Problemas de sono"
+    ],
+    "Infecção por vírus sincicial respiratório": [
+        "Nariz congestionado",
+        "Diminuição do apetite",
+        "Tosse",
+        "Espirros",
+        "Febre",
+        "Chiado"
+    ],
+    "Bronquite crónica": [
+        "Tosse frequente ou tosse que produz muito muco",
+        "Chiado",
+        "Um som de assobio ou rangido quando respira",
+        "Falta de ar, especialmente com atividade física",
+        "Aperto torácico"
+    ],
+    "Pneumonia": [
+        "Infecção dos pulmões"
+    ],
+    "Encefalomielite Miálgica/Síndrome de Fadiga Crônica": [
+        "Não ser capaz de fazer atividades que costumava fazer antes da doença, juntamente com fadiga severa. A fadiga deve durar seis meses ou mais, e não é melhorada pelo repouso.",
+        "Mal-estar pós-exercício (PEM), o que significa que os seus sintomas pioram após qualquer atividade física ou mental.",
+        "Problemas do Sono",
+        "Problemas com o pensamento e a memória.",
+        "Agravamento dos sintomas em pé ou sentado ereto. Isso é chamado de intolerância ortostática. Pode fazer com que se sinta tonto, tonto, fraco ou desmaie enquanto está em pé ou sentado.",
+        "Dor, incluindo dor muscular, dor nas articulações e dores de cabeça",
+        "Dor de garganta",
+        "Linfonodos sensíveis (glândulas) no pescoço ou axilas",
+        "Problemas digestivos, como síndrome do intestino irritável",
+        "Calafrios e suores noturnos",
+        "Alergias e sensibilidades a alimentos, odores, produtos químicos, luz ou ruído"
+    ],
+    "Doença de Chagas": [
+        "Febre",
+        "Fadiga",
+        "Dores no corpo ",
+        "Dor de cabeça",
+        "Perda do apetite",
+        "Diarreia",
+        "Vómitos",
+        "Exantema",
+        "Pálpebra tumefacta",
+        "Uma arritmia grave (um problema com a taxa ou ritmo do seu batimento cardíaco) que pode causar morte súbita",
+        "Um coração aumentado que não bombeia bem o sangue",
+        "Problemas com a digestão e evacuações",
+        "Uma maior probabilidade de ter um acidente vascular cerebral"
+    ],
+    "Infecção a clamídia": [
+        "Corrimento vaginal anormal, que pode ter um cheiro forte",
+        "Uma sensação de queimação ao urinar",
+        "Descarga peniana",
+        "Sensação de queimação ao urinar (fazer xixi)",
+        "Dor e inchaço em um ou ambos os testículos (embora isso seja menos comum)"
+    ],
+    "Resfriado comum": [
+        "Espirros",
+        "Nariz entupido (congestão)",
+        "Nariz congestionado",
+        "Dor de garganta",
+        "Tosse",
+        "Dor de cabeça"
+    ],
+    "Infecções sexualmente transmissíveis": [
+        "Corrimento anormal do pénis ou da vagina",
+        "Feridas ou verrugas na área genital",
+        "Micção dolorosa ou frequente (xixi)",
+        "Prurido e vermelhidão na área genital",
+        "Bolhas ou feridas dentro ou ao redor da boca",
+        "Odor vaginal anormal",
+        "Coceira anal, dor ou sangramento",
+        "Dor abdominal (barriga)",
+        "Febre"
+    ],
+    "Criptosporidiose": [],
+    "Ébola": [
+        "Febre",
+        "Dor de cabeça",
+        "dores musculares ou nas articulações",
+        "Fraqueza e fadiga",
+        "Dor de garganta",
+        "Sintomas gastrointestinais, incluindo dor abdominal (barriga), diarreia e vômitos",
+        "Perda do apetite",
+        "Hemorragia ou hematomas inexplicáveis"
+    ],
+    "Febre Glandular": [
+        "CANSACO",
+        "Febre",
+        "Dor de garganta",
+        "Dores de cabeça e corpo",
+        "Gânglios linfáticos inchados no pescoço e axilas",
+        "Erupção cutânea",
+        "Inchaço do fígado, baço ou ambos (estes são sintomas menos comuns)"
+    ],
+    "Eritema infeccioso": [
+        "Febre",
+        "Dor de cabeça",
+        "Tosse",
+        "Dor de garganta",
+        "Erupções cutâneas",
+        "Dor nas articulações",
+        "Você mostra sinais de quinta doença (ou uma erupção na \"bochecha esbofeteada\")",
+        "Você pode ter sido exposto a alguém que tem a infecção"
+    ],
+    "Gripe": [
+        "Febre durante a gravidez",
+        "Complicações na gravidez",
+        "Doença grave em pessoas grávidas",
+        "Hospitalização",
+        "Doença grave em bebês"
+    ],
+    "Gastrenterite": [
+        "Diarreia",
+        "Dor ou cãibras no abdómen (barriga)",
+        "Náusea",
+        "Vómitos",
+        "Por vezes, febre",
+        "Mulheres grávidas",
+        "Idoso",
+        "Pessoas com sistema imunológico enfraquecido ou outras condições graves de saúde",
+        "Crianças",
+        "Bebês que nasceram prematuros ou têm outras condições de saúde",
+        "Para adultos, eles incluem:",
+        "Mudança no estado mental, como irritabilidade ou falta de energia",
+        "Diarreia com duração superior a 2 dias",
+        "febre alta",
+        "Vómitos frequentes",
+        "Seis ou mais fezes moles num dia",
+        "Dor intensa no abdómen (barriga) ou reto",
+        "Fezes pretas e escuras ou que contenham sangue ou pus",
+        "Sintomas de desidratação, como sede, boca seca, dor de cabeça, urina de cor escura e urinar menos do que o normal",
+        "Mudança no estado mental, como irritabilidade ou falta de energia",
+        "Diarreia com duração superior a 2 dias",
+        "febre alta",
+        "Vómitos frequentes",
+        "Seis ou mais fezes moles num dia",
+        "Dor intensa no abdómen (barriga) ou reto",
+        "Fezes pretas e escuras ou que contenham sangue ou pus",
+        "Sintomas de desidratação, como sede, boca seca, dor de cabeça, urina de cor escura e urinar menos do que o normal",
+        "Para bebés e crianças, incluem:",
+        "Mudança no estado mental da criança, como irritabilidade ou falta de energia",
+        "Diarreia que dura mais de um dia",
+        "Qualquer febre em lactentes",
+        "Febre alta em crianças mais velhas",
+        "Fezes moles frequentes",
+        "Vómitos frequentes",
+        "Dor intensa no abdómen (barriga) ou reto",
+        "Sinais ou sintomas de desidratação, como sede, boca seca, urinar menos do que o habitual ou sem fraldas molhadas por 3 horas ou mais, e sem lágrimas ao chorar",
+        "Fezes pretas e escuras ou que contenham sangue ou pus",
+        "Mudança no estado mental da criança, como irritabilidade ou falta de energia",
+        "Diarreia que dura mais de um dia",
+        "Qualquer febre em lactentes",
+        "Febre alta em crianças mais velhas",
+        "Fezes moles frequentes",
+        "Vómitos frequentes",
+        "Dor intensa no abdómen (barriga) ou reto",
+        "Sinais ou sintomas de desidratação, como sede, boca seca, urinar menos do que o habitual ou sem fraldas molhadas por 3 horas ou mais, e sem lágrimas ao chorar",
+        "Fezes pretas e escuras ou que contenham sangue ou pus"
+    ],
+    "Piolhos-da-Cabeça": [
+        "Sensação de cócegas no cabelo",
+        "Comichão frequente, que é causada por uma reação alérgica às picadas",
+        "Feridas de coçar. Às vezes, as feridas podem ser infectadas com bactérias.",
+        "Problemas para dormir, porque os piolhos são mais ativos no escuro"
+    ],
+    "Hepatite": [
+        "Febre",
+        "Fadiga",
+        "Perda do apetite",
+        "Náuseas e/ou vómitos",
+        "Dor abdominal",
+        "Urina escura",
+        "Intestinos cor de argila",
+        "Dor nas articulações",
+        "icterícia (amarelecimento da pele e dos olhos)"
+    ],
+    "Ripas": [
+        "Febre",
+        "Dor de cabeça",
+        "Calafrios",
+        "Indisposição gástrica"
+    ],
+    "Histoplasmose": [
+        "Febre",
+        "Tosse",
+        "Fadiga",
+        "Calafrios",
+        "Dor de cabeça",
+        "Dor torácica",
+        "Dores no corpo ",
+        "Pessoas que têm sistemas imunológicos enfraquecidos, por exemplo, de:",
+        "Ter VIH",
+        "Ter feito um transplante de órgão",
+        "Tomar medicamentos que enfraquecem o sistema imunológico, como quimioterapia e esteroides",
+        "Ter VIH",
+        "Ter feito um transplante de órgão",
+        "Tomar medicamentos que enfraquecem o sistema imunológico, como quimioterapia e esteroides",
+        "Crianças",
+        "Adultos com 55 anos ou mais"
+    ],
+    "Síndrome da poliomielite e pós-pólio": [
+        "Dor de garganta",
+        "Febre",
+        "Fadiga",
+        "Náusea",
+        "Dor de cabeça",
+        "Dor no estômago",
+        "Meningite, uma infecção da cobertura da sua medula espinhal e/ou cérebro.",
+        "Fraqueza ou paralisia nos braços, pernas ou ambos. Essa paralisia ou fraqueza pode durar a vida toda. É possível que a paralisia se torne fatal se afetar os músculos que você usa para respirar.",
+        "Síndrome pós-pólio (SPP), que acontece mais tarde na vida."
+    ],
+    "Condições Pós-COVID (COVID Longa)": [
+        "Sintomas gerais, como fadiga e febre",
+        "Sintomas respiratórios, como dificuldade para respirar e tosse",
+        "Sintomas cardíacos, como dor no peito e palpitações",
+        "Sintomas neurológicos, como problemas de pensamento e concentração (\"névoa cerebral\"), dores de cabeça e problemas de sono",
+        "Sintomas digestivos, como diarreia e dor de estômago"
+    ],
+    "Borreliose de Lyme": [
+        "Uma erupção vermelha chamada eritema migratório (EM). A maioria das pessoas com doença de Lyme tem essa erupção cutânea. Fica maior ao longo de vários dias e pode parecer quente. Geralmente não é doloroso ou pruriginoso. À medida que começa a melhorar, partes dele podem desaparecer. Às vezes, isso faz com que a erupção pareça um \"alvo\".",
+        "Febre",
+        "Calafrios",
+        "Dor de cabeça",
+        "Fadiga",
+        "Dores musculares e articulares",
+        "Nódulos linfáticos inchados",
+        "Dores de cabeça graves e rigidez do pescoço",
+        "Erupções EM adicionais noutras áreas do corpo",
+        "Paralisia facial, que é uma fraqueza nos músculos faciais. Pode causar queda em um ou ambos os lados do rosto.",
+        "Artrite com dor intensa nas articulações e inchaço, especialmente nos joelhos e outras articulações grandes",
+        "Dor que vai e vem nos tendões, músculos, articulações e ossos",
+        "Palpitações cardíacas, que são sentimentos de que o seu coração está pulando uma batida, vibrando, batendo ou batendo muito forte ou muito rápido",
+        "Um batimento cardíaco irregular (cardite de Lyme)",
+        "Episódios de tonturas ou falta de ar",
+        "Inflamação do cérebro e da medula espinhal",
+        "Dores nervosas",
+        "Dores fortes, dormência ou formigamento nas mãos ou pés"
+    ],
+    "Doença meningocócica": [
+        "Febre",
+        "Dor de cabeça",
+        "Torcicolo",
+        "Náuseas e vômitos",
+        "Fotofobia (seus olhos são mais sensíveis à luz)",
+        "Confusão",
+        "Seja lento ou inativo",
+        "Ficar irritado",
+        "Vómito",
+        "Alimente-se mal",
+        "Têm um abaulamento do ponto macio do crânio",
+        "febre e arrepios",
+        "Fadiga",
+        "Vómitos",
+        "Mãos e pés frios",
+        "Dores graves ou dor nos músculos, articulações, tórax ou abdômen (barriga)",
+        "Respiração acelerada",
+        "Diarreia",
+        "Uma erupção cutânea roxa escura (nos estágios posteriores da doença)"
+    ],
+    "Mpox": [
+        "Uma erupção cutânea com feridas que podem parecer espinhas ou bolhas. Pode estar no rosto, dentro da boca e em outras partes do corpo, como mãos, pés, tórax, órgãos genitais ou ânus. Ele passa por diferentes estágios, incluindo crostas, antes de cicatrizar. Isso pode levar de 2 a 4 semanas.",
+        "Febre",
+        "Calafrios.",
+        "Inchaço dos gânglios linfáticos (\"glândulas inchadas\").",
+        "Exaustão.",
+        "Dor de cabeça.",
+        "Dores musculares e nas costas.",
+        "Sintomas respiratórios, como dor de garganta, congestão nasal ou tosse.",
+        "Pode ter uma erupção cutânea primeiro, seguida por outros sintomas",
+        "Você pode ter sintomas semelhantes aos da gripe e, em seguida, desenvolver uma erupção cutânea 1-4 dias depois",
+        "Só pode ter uma erupção cutânea"
+    ],
+    "Tosse convulsa": [
+        "Nariz congestionado",
+        "Febre leve",
+        "Tosse leve e ocasional",
+        "Combina com muitas tosses rápidas seguidas por um som agudo de \"grito\"",
+        "Vômitos durante ou após ataques de tosse",
+        "Exaustão após ataques de tosse"
+    ],
+    "INFECCAO A PNEUMOCISTIS CARINI": [
+        "Febre",
+        "Tosse",
+        "Dificuldade em respirar",
+        "Dor torácica",
+        "Calafrios",
+        "Fadiga"
+    ],
+    "Infecção bacteriana por estafilococo NE": [
+        "As infecções da pele podem parecer espinhas ou furúnculos. Eles podem estar vermelhos, inchados e doloridos. Às vezes, há pus ou outra drenagem. Eles podem se transformar em impetigo, que se transforma em uma crosta na pele, ou celulite, uma área inchada e vermelha da pele que fica quente.",
+        "As infecções ósseas podem causar dor, inchaço, calor e vermelhidão na área infectada. Você também pode ter calafrios e febre.",
+        "A endocardite causa alguns sintomas semelhantes aos da gripe: febre, calafrios e fadiga. Também causa sintomas como batimentos cardíacos acelerados, falta de ar e acúmulo de líquido nos braços ou pernas.",
+        "A intoxicação alimentar normalmente causa náuseas e vômitos, diarreia e febre. Se perder demasiados líquidos, também pode ficar desidratado.",
+        "Os sintomas da pneumonia incluem febre alta, calafrios e tosse que não melhoram. Você também pode ter dor no peito e falta de ar.",
+        "A síndrome do choque tóxico (SST) causa febre alta, pressão arterial baixa repentina, vômitos, diarreia e confusão. Você pode ter uma erupção semelhante a uma queimadura solar em algum lugar do corpo. A SST pode levar à falência de órgãos."
+    ],
+    "Aneurisma da Aorta Torácica": [
         "Dor aguda e repentina no peito ou parte superior das costas",
         "Falta de ar",
         "Dificuldade para respirar ou engolir"
     ],
-    "Aneurisma Aórtico Abdominal": [
-        "Pulsação ou dor profunda nas costas ou lado",
+    "Aneurisma da Aorta Abdominal": [
+        "Dor latejante ou profunda nas costas ou lado",
         "Dor nas nádegas, virilha ou pernas"
     ],
     "Aneurisma Cerebral": [
@@ -14,8 +1170,12 @@
     "Aneurismas Periféricos": [
         "Podem formar coágulos sanguíneos que podem se soltar e bloquear o fluxo sanguíneo pela artéria"
     ],
-    "Dissecção Aórtica": [],
-    "Ruptura Aórtica": [],
+    "Dissecção da Aorta": [
+        "A força do bombeamento do sangue pode dividir as camadas da parede da artéria, permitindo que o sangue vaze entre elas."
+    ],
+    "Ruptura da Aorta": [
+        "O aneurisma pode romper completamente, causando sangramento dentro do corpo."
+    ],
     "Abuso Físico": [
         "Uso intencional de força física que pode resultar em lesão física",
         "Bater",
@@ -34,39 +1194,17 @@
         "Insultar",
         "Envergonhar",
         "Rejeitar",
-        "Reter amor"
+        "Negar amor"
     ],
     "Negligência": [
-        "Falha em atender às necessidades básicas de um adulto mais velho",
-        "Falta de comida, água, abrigo, roupas, higiene e cuidados médicos essenciais"
-    ],
-    "Abuso físico": [
-        "Doença",
-        "Lesão",
-        "Deficiência funcional",
-        "Morte resultante do uso intencional de força física",
-        "Bater",
-        "Chutar",
-        "Empurrar"
-    ],
-    "Abuso sexual": [
-        "Interação sexual forçada ou indesejada",
-        "Contato sexual indesejado ou penetração",
-        "Atos sem contato físico como assédio sexual"
-    ],
-    "Abuso emocional ou psicológico": [
-        "Comportamentos verbais ou não verbais que infligem angústia, medo ou sofrimento",
-        "Humilhação",
-        "Ameaças",
-        "Assédio"
-    ],
-    "Abuso financeiro": [
-        "Uso ilegal, não autorizado ou impróprio de dinheiro, benefícios, propriedade ou bens em benefício de alguém que não o idoso"
+        "Falha em atender às necessidades físicas e emocionais básicas de uma criança",
+        "Falta de moradia, alimentação, roupas, educação, acesso a cuidados médicos",
+        "Falta de validação e resposta adequada aos sentimentos"
     ],
     "Infecção por Acinetobacter": [
         "Infecções no sangue",
         "Infecções do trato urinário",
-        "Pneumonia (infecção pulmonar)",
+        "Pneumonia",
         "Infecções em feridas"
     ],
     "Bronquite Aguda": [
@@ -77,27 +1215,697 @@
         "Dores leves no corpo",
         "Dor de garganta"
     ],
-    "Coqueluche": [],
-    "Pneumonia": [],
+    "Coqueluche": [
+        "Tosse intensa",
+        "Parada respiratória",
+        "Cor azulada na pele",
+        "Sintomas leves em crianças maiores e adultos",
+        "Risco de vida para recém-nascidos"
+    ],
     "Infecção de Ouvido": [],
     "Infecção Sinusal": [],
-    "Dor de Garganta": [],
-    "Infecção do Trato Urinário": [],
-    "Resfriado Comum": [],
+    "Infecção Urinária": [],
     "Infecção de Pele": [],
+    "Resfriado Comum": [],
     "Síndrome de Reye": [
-        "Pode causar danos ao fígado e ao cérebro"
+        "Pode prejudicar o fígado e o cérebro"
     ],
-    "Resfriado comum ou sintomas gripais": [
+    "Infecção por C. diff": [
+        "Diarreia que pode levar a danos graves no cólon e morte"
+    ],
+    "Gastroenterite Aguda": [
+        "Inflamação do estômago ou intestinos",
+        "Diarreia",
+        "Vômito",
+        "Náusea",
+        "Dor de estômago"
+    ],
+    "Infecção da Bexiga": [
+        "Inflamação",
+        "Dor"
+    ],
+    "Infecção por Adenovírus": [
+        "Sintomas semelhantes aos do resfriado comum ou gripe",
         "Febre",
         "Dor de garganta",
-        "Bronquite aguda (inflamação das vias aéreas dos pulmões, às vezes chamada de 'dor no peito')",
-        "Pneumonia (infecção dos pulmões)",
         "Conjuntivite (olho rosa)",
-        "Gastroenterite aguda (inflamação do estômago ou intestinos causando diarreia, vômito, náusea e dor de estômago)"
+        "Doença neurológica (condições que afetam o cérebro e a medula espinhal)"
     ],
-    "Infecção da Bexiga": [],
-    "Doença Neurológica": [
-        "Condições que afetam o cérebro e a medula espinhal"
+    "Ascaridíase": [
+        "Dor abdominal",
+        "Diarreia",
+        "Perda de sangue, proteína ou nutrientes",
+        "Prolapso retal (Quando o reto cede e sai do ânus)",
+        "Crescimento físico e cognitivo lento em bebês e crianças. (Deficiência cognitiva é quando uma pessoa tem problemas para se lembrar, aprender coisas novas, se concentrar ou tomar decisões.)"
+    ],
+    "Tricuríase": [
+        "Dor abdominal",
+        "Diarreia",
+        "Perda de sangue, proteína ou nutrientes",
+        "Prolapso retal (Quando o reto cede e sai do ânus)",
+        "Crescimento físico e cognitivo lento em bebês e crianças. (Deficiência cognitiva é quando uma pessoa tem problemas para se lembrar, aprender coisas novas, se concentrar ou tomar decisões.)"
+    ],
+    "Ancilostomíase": [
+        "Dor abdominal",
+        "Diarreia",
+        "Perda de sangue, proteína ou nutrientes",
+        "Prolapso retal (Quando o reto cede e sai do ânus)",
+        "Crescimento físico e cognitivo lento em bebês e crianças. (Deficiência cognitiva é quando uma pessoa tem problemas para se lembrar, aprender coisas novas, se concentrar ou tomar decisões.)"
+    ],
+    "Meningite eosinofílica": [
+        "Dor de cabeça",
+        "Rigidez no pescoço",
+        "Formigamento ou sensação de dor na pele",
+        "Febre baixa",
+        "Náusea",
+        "Vômito"
+    ],
+    "Gastroenterite eosinofílica": [],
+    "Infecção por Angiostrongylus cantonensis": [
+        "Sintomas leves que não duram muito tempo",
+        "Dores musculares",
+        "Dor de garganta"
+    ],
+    "Intoxicação por Monóxido de Carbono": [
+        "Dor de cabeça",
+        "Tontura",
+        "Fraqueza",
+        "Dor de estômago",
+        "Vômito",
+        "Dor no peito",
+        "Confusão",
+        "Sintomas semelhantes aos da gripe",
+        "Desmaio",
+        "Morte"
+    ],
+    "Cardiomiopatia": [
+        "Batimentos cardíacos irregulares",
+        "Acúmulo de sangue nos pulmões ou no resto do corpo",
+        "Insuficiência cardíaca",
+        "Falta de ar ou dificuldade para respirar",
+        "Fadiga",
+        "Inchaço nos tornozelos e pernas",
+        "Batimento cardíaco irregular ou palpitações",
+        "Síncope (desmaio ou perda breve da consciência)"
+    ],
+    "Cardiomiopatia Dilatada": [
+        "Uma das câmaras de bombeamento (ventrículos) do coração está aumentada"
+    ],
+    "Cardiomiopatia Hipertrófica": [
+        "Músculo cardíaco espessado",
+        "Morte súbita em adolescentes e atletas jovens adultos"
+    ],
+    "Cardiomiopatia Arritmogênica": [
+        "Batimentos cardíacos irregulares ou ritmos anormais"
+    ],
+    "Cardiomiopatia Restritiva": [
+        "Músculo cardíaco rígido ou com cicatrizes",
+        "Amiloidose",
+        "Hemocromatose"
+    ],
+    "Cardiomiopatia Pediátrica": [
+        "Infecção viral",
+        "Parada cardíaca súbita em jovens"
+    ],
+    "Cardiomiopatia Periparto": [
+        "Insuficiência cardíaca",
+        "Músculo cardíaco enfraquecido",
+        "Acúmulo de líquido nos pulmões",
+        "Falta de ar",
+        "Fadiga",
+        "Tornozelos ou pernas inchados"
+    ],
+    "Doença Cardíaca": [
+        "Dor no peito ou desconforto",
+        "Dor na parte superior das costas ou pescoço",
+        "Azia",
+        "Náusea ou vômito",
+        "Fadiga extrema",
+        "Tontura",
+        "Falta de ar"
+    ],
+    "Ataque Cardíaco": [
+        "Dor no peito ou desconforto",
+        "Dor na parte superior das costas ou pescoço",
+        "Azia",
+        "Náusea ou vômito",
+        "Fadiga extrema",
+        "Tontura",
+        "Falta de ar"
+    ],
+    "Arritmia": [
+        "Sensação de palpitações no peito"
+    ],
+    "Insuficiência Cardíaca": [
+        "Falta de ar",
+        "Fadiga",
+        "Inchaço nos pés, tornozelos, pernas, abdômen ou veias do pescoço"
+    ],
+    "Bartonelose": [],
+    "Doença da arranhadura do gato": [],
+    "Infecção por Bartonella quintana": [],
+    "Infecção por Bartonella bacilliformis": [],
+    "Infecção do Trato Urinário (ITU)": [
+        "A ITU é uma infecção que envolve qualquer um dos órgãos ou estruturas do trato urinário (por exemplo, rins, ureteres, bexiga e uretra)."
+    ],
+    "Infecção do Trato Urinário Associada a Cateter (CAUTI)": [
+        "Germes (geralmente bactérias) entram no trato urinário através do cateter urinário e causam infecção.",
+        "Aumento da morbidade",
+        "Mortalidade",
+        "Maiores custos com saúde",
+        "Maior tempo de internação"
+    ],
+    "HIV/AIDS": [],
+    "Obesidade": [
+        "Asma",
+        "Apneia do sono",
+        "Problemas ósseos e articulares",
+        "Diabetes tipo 2",
+        "Fatores de risco para doenças cardíacas, como pressão alta",
+        "Derrame (em adultos)",
+        "Muitos tipos de câncer (em adultos)",
+        "Doenças cardíacas (em adultos)",
+        "Diabetes tipo 2 (em adultos)",
+        "Morte prematura (em adultos)",
+        "Doença mental, como depressão clínica e ansiedade (em adultos)"
+    ],
+    "Infecções Relacionadas à Linha Central (CLABSI)": [
+        "Febre",
+        "Vermelhidão na pele e sensibilidade ao redor da linha central"
+    ],
+    "Dermatite Cercariana": [
+        "Formigamento",
+        "Queimação",
+        "Coceira na pele",
+        "Pequenas espinhas avermelhadas",
+        "Pequenas bolhas"
+    ],
+    "Febre Hemorrágica Chapare (CHHF)": [
+        "Febre",
+        "Dor de cabeça",
+        "Dor muscular e nas articulações",
+        "Dor atrás dos olhos",
+        "Dor de estômago",
+        "Vômito",
+        "Diarreia",
+        "Sangramento nas gengivas",
+        "Erupção cutânea",
+        "Irritabilidade"
+    ],
+    "Dor de Garganta": [],
+    "Infecção do Trato Urinário": [],
+    "Pneumoconioses": [
+        "Problemas respiratórios",
+        "Tosse",
+        "Falta de ar"
+    ],
+    "Artrite Infantil (Artrite Juvenil)": [
+        "Dor nas articulações",
+        "Inchaço",
+        "Febre",
+        "Rigidez",
+        "Erupção cutânea",
+        "Sensação de cansaço",
+        "Perda de apetite"
+    ],
+    "Diabetes tipo 2": [
+        "Falta de sono"
+    ],
+    "Lesões": [
+        "Falta de sono"
+    ],
+    "Problemas de atenção e comportamento": [
+        "Falta de sono"
+    ],
+    "Baixas notas na escola": [
+        "Muito tempo de tela"
+    ],
+    "Má saúde mental": [
+        "Muito tempo de tela"
+    ],
+    "Doença Inflamatória Pélvica (DIP)": [
+        "Formação de tecido cicatricial que bloqueia as trompas de falópio",
+        "Gravidez ectópica (gravidez fora do útero)",
+        "Infertilidade (não ser capaz de engravidar)",
+        "Dor pélvica/abdominal de longa duração"
+    ],
+    "Síndrome da Fadiga Crônica (SFC)": [
+        "Fadiga severa que não melhora com repouso",
+        "Problemas de pensamento",
+        "Problemas de sono",
+        "Tontura",
+        "Dor",
+        "Mal-estar pós-esforço (PEM) - piora dos sintomas após atividade física ou mental",
+        "Dificuldade em realizar atividades diárias como tomar banho ou cozinhar",
+        "Dificuldade em manter um emprego, frequentar a escola e participar da vida familiar e social",
+        "Incapacidade em alguns casos"
+    ],
+    "Doença Pulmonar Obstrutiva Crônica (DPOC)": [
+        "Tosse frequente ou chiado no peito",
+        "Falta de ar ao realizar atividades cotidianas",
+        "Dificuldade em respirar profundamente",
+        "Excesso de catarro ou muco",
+        "Dificuldade em trabalhar ou realizar atividades habituais",
+        "Dificuldade em caminhar ou subir escadas",
+        "Dificuldade em se concentrar, lembrar ou tomar decisões",
+        "Asma",
+        "Doença cardíaca",
+        "Diabetes",
+        "Depressão ou problemas de saúde mental",
+        "Problemas de saúde relatados"
+    ],
+    "Doença de Lyme": [
+        "Fadiga",
+        "Sintomas gripais, incluindo dor muscular, dor de cabeça, sudorese, irritabilidade e sensação geral de doença",
+        "Sintomas que pioram após esforço físico ou mental (também conhecido como 'mal-estar pós-esforço')",
+        "Dificuldade em pensar ou se concentrar (às vezes chamada de 'névoa cerebral'), dificuldade em encontrar palavras",
+        "Dor nas articulações crônica ou recorrente",
+        "Problemas de sono"
+    ],
+    "Febre Q": [],
+    "Ebola": [
+        "Fadiga",
+        "Sintomas gripais, incluindo dor muscular, dor de cabeça, sudorese, irritabilidade e sensação geral de doença",
+        "Sintomas que pioram após esforço físico ou mental (também conhecido como 'mal-estar pós-esforço')",
+        "Dificuldade em pensar ou se concentrar (às vezes chamada de 'névoa cerebral'), dificuldade em encontrar palavras",
+        "Dor nas articulações crônica ou recorrente",
+        "Problemas de sono"
+    ],
+    "Mononucleose Infecciosa (Epstein-Barr)": [
+        "Fadiga",
+        "Sintomas gripais, incluindo dor muscular, dor de cabeça, sudorese, irritabilidade e sensação geral de doença",
+        "Sintomas que pioram após esforço físico ou mental (também conhecido como 'mal-estar pós-esforço')",
+        "Dificuldade em pensar ou se concentrar (às vezes chamada de 'névoa cerebral'), dificuldade em encontrar palavras",
+        "Dor nas articulações crônica ou recorrente",
+        "Problemas de sono"
+    ],
+    "COVID-19": [
+        "Doença grave em pessoas grávidas",
+        "Complicações na gravidez",
+        "Risco para o bebê em desenvolvimento"
+    ],
+    "Febre do Nilo Ocidental": [
+        "Fadiga",
+        "Sintomas gripais, incluindo dor muscular, dor de cabeça, sudorese, irritabilidade e sensação geral de doença",
+        "Sintomas que pioram após esforço físico ou mental (também conhecido como 'mal-estar pós-esforço')",
+        "Dificuldade em pensar ou se concentrar (às vezes chamada de 'névoa cerebral'), dificuldade em encontrar palavras",
+        "Dor nas articulações crônica ou recorrente",
+        "Problemas de sono"
+    ],
+    "Infecção por Campylobacter": [],
+    "Encefalomielite Miálgica/Síndrome da Fadiga Crônica (EM/SFC)": [
+        "Fadiga",
+        "Sintomas gripais, incluindo dor muscular, dor de cabeça, sudorese, irritabilidade e sensação geral de doença",
+        "Sintomas que pioram após esforço físico ou mental (também conhecido como 'mal-estar pós-esforço')",
+        "Dificuldade em pensar ou se concentrar (às vezes chamada de 'névoa cerebral'), dificuldade em encontrar palavras",
+        "Dor nas articulações crônica ou recorrente",
+        "Problemas de sono"
+    ],
+    "Lesão Cerebral Traumática (LCT)": [
+        "Problemas de saúde a curto ou longo prazo",
+        "Dificuldade de desenvolvimento em crianças",
+        "Limitação na participação escolar e em atividades físicas em crianças"
+    ],
+    "Lesão Cerebral Traumática Leve (Concussão)": [
+        "Sintomas de curto prazo",
+        "Recuperação em algumas semanas ou meses"
+    ],
+    "Lesão Cerebral Traumática Moderada ou Grave": [
+        "Efeitos a longo prazo ou permanentes",
+        "Necessidade de cuidados contínuos, como serviços de reabilitação"
+    ],
+    "Doença Debilitante Crônica (CWD)": [
+        "Comportamento estranho",
+        "Aspecto doente"
+    ],
+    "Intoxicação por Maré Vermelha por Karenia brevis": [
+        "Tosse",
+        "Espirros",
+        "Falta de ar",
+        "Dor de garganta",
+        "Irritação ocular",
+        "Erupção cutânea",
+        "Crises de asma",
+        "Náusea",
+        "Vômito",
+        "Diarreia",
+        "Dor de estômago",
+        "Dormência nos lábios, língua e garganta",
+        "Tontura"
+    ],
+    "Intoxicação por Azaspiracid": [
+        "Náusea",
+        "Vômito",
+        "Diarreia",
+        "Dor de estômago"
+    ],
+    "Intoxicação por Ciguatera": [
+        "Náusea",
+        "Vômito",
+        "Diarreia",
+        "Dor de estômago",
+        "Sensações anormais de calor e frio",
+        "Dor",
+        "Fraqueza",
+        "Pressão arterial baixa"
+    ],
+    "Intoxicação Diarreica por Marisco": [
+        "Náusea",
+        "Vômito",
+        "Diarreia",
+        "Dor de estômago",
+        "Calafrios",
+        "Dor de cabeça",
+        "Febre"
+    ],
+    "Intoxicação por Ácido Domóico e Intoxicação Amnésica por Marisco": [
+        "Vômito ou diarreia",
+        "Falta de ar",
+        "Batimento cardíaco irregular",
+        "Sensações anormais de calor e frio",
+        "Perda de memória",
+        "Sensação de desorientação",
+        "Convulsões ou possivelmente coma",
+        "Possível perda de memória (amnésia)"
+    ],
+    "Intoxicação Paralisante por Marisco": [
+        "Náusea e vômito",
+        "Diarreia",
+        "Falta de ar",
+        "Batimento cardíaco irregular",
+        "Dormência na boca e lábios",
+        "Fraqueza",
+        "Paralisia muscular (não conseguir mover uma ou mais partes do corpo)"
+    ],
+    "Picadas de Percevejos": [
+        "Irritação",
+        "Coceira",
+        "Marcas de mordida pequenas",
+        "Reações alérgicas graves (raras)",
+        "Insônia",
+        "Ansiedade",
+        "Problemas de pele por coçar",
+        "Marcas de mordida aumentadas",
+        "Inchaços dolorosos no local da mordida",
+        "Anafilaxia (em casos raros)"
+    ],
+    "Infecção Secundária da Pele": [
+        "Pode ocorrer devido a coceira intensa de picadas de percevejos"
+    ],
+    "Doença de Creutzfeldt-Jakob (DCJ)": [
+        "Demência",
+        "Dificuldade para caminhar",
+        "Movimentos bruscos repentinos",
+        "Perturbações visuais"
+    ],
+    "Botulismo Alimentar": [
+        "Causado pela ingestão de alimentos contaminados com a toxina botulínica",
+        "Fontes comuns são alimentos caseiros que foram enlatados, conservados ou fermentados inadequadamente",
+        "Alimentos comprados em lojas também podem ser contaminados, embora seja incomum"
+    ],
+    "Botulismo por Feridas": [
+        "Ocorre quando os esporos entram em uma ferida e produzem a toxina",
+        "Pessoas que injetam drogas ilícitas têm maior chance de desenvolver botulismo por feridas",
+        "Pessoas que sofreram uma lesão traumática, como um acidente de moto, ou cirurgia também podem desenvolver botulismo por feridas"
+    ],
+    "Botulismo Infantil": [
+        "Ocorre quando os esporos entram no intestino do bebê, crescem e produzem a toxina",
+        "As razões para isso ainda não são totalmente compreendidas"
+    ],
+    "Botulismo Iatrogênico": [
+        "Pode acontecer se muita toxina botulínica for injetada por razões cosméticas, como para rugas",
+        "Também pode acontecer se muita toxina for injetada por razões médicas, como para enxaquecas"
+    ],
+    "Toxemia Intestinal do Adulto": [
+        "Também conhecido como colonização intestinal do adulto",
+        "Um tipo muito raro de botulismo",
+        "Ocorre quando os esporos da bactéria entram no intestino de um adulto, crescem e produzem a toxina (semelhante ao botulismo infantil)",
+        "As causas ainda não são totalmente compreendidas",
+        "Pessoas com problemas de saúde graves que afetam o intestino podem ter maior probabilidade de adoecer"
+    ],
+    "Intoxicação Alimentar por Clostridium Perfringens": [
+        "Diarreia"
+    ],
+    "Infecção por Clostridium sordellii": [
+        "Pneumonia",
+        "Endocardite",
+        "Artrite",
+        "Peritonite",
+        "Mionecrose",
+        "Bacteremia",
+        "Sepse",
+        "Náusea",
+        "Vômito",
+        "Diarreia",
+        "Dor abdominal sem febre",
+        "Síndrome do choque tóxico"
+    ],
+    "Hemofilia A": [
+        "Sangramento após a circuncisão do pênis que dura muito tempo",
+        "Sangramento que dura muito tempo após a coleta de sangue ou punção no calcanhar (picar o calcanhar do bebê para coletar sangue para testes de triagem neonatal)",
+        "Sangramento na cabeça (couro cabeludo ou cérebro) após um parto difícil ou após o uso de dispositivos ou instrumentos especiais para ajudar no parto do bebê (por exemplo, vácuo ou fórceps)",
+        "Hematomas incomuns, elevados ou em grande número"
+    ],
+    "Hemofilia B": [],
+    "Hemofilia": [
+        "Histórico familiar de sangramento, como após cirurgia ou lesão, ou mortes inexplicáveis entre irmãos, irmãs ou parentes do sexo masculino, como tios maternos, avôs ou primos",
+        "Sintomas de sangramento ao nascimento",
+        "Hematomas incomuns quando a criança começa a ficar em pé ou engatinhar",
+        "Problemas graves de sangramento logo no início da vida (em casos graves)",
+        "Tempo de coagulação do sangue mais longo (medido pelo TTPA)",
+        "Níveis baixos de fator VIII (8) ou fator IX (9) no sangue (confirmado por testes de fator de coagulação)"
+    ],
+    "Abestosis": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Silicose": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose dos Trabalhadores do Carvão (Pneumoconiose dos Mineiros)": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose por Poeira Mista": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Bisinose": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose por Alumínio": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose por Antimônio": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose por Bário": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose por Grafite": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose por Ferro": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose por Caulim": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose por Mica": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Pneumoconiose por Talco": [
+        "Falta de ar",
+        "Tosse",
+        "Aumento do catarro"
+    ],
+    "Resfriado": [
+        "Coriza ou congestão nasal",
+        "Tosse",
+        "Espirros",
+        "Dor de garganta",
+        "Dor de cabeça",
+        "Dores leves no corpo",
+        "Febre (geralmente baixa em crianças maiores e adultos)"
+    ],
+    "Infecção do ouvido médio": [
+        "Infecção atrás do tímpano"
+    ],
+    "Sinusite": [],
+    "Ataques de asma": [
+        "Chiado no peito",
+        "Dificuldade em respirar"
+    ],
+    "Bronquiolite": [
+        "Infecção das pequenas vias aéreas"
+    ],
+    "Bronquite": [
+        "Infecção das grandes vias aéreas"
+    ],
+    "Piora de condições médicas crônicas": [
+        "Doença pulmonar obstrutiva crônica",
+        "Insuficiência cardíaca"
+    ],
+    "Vírus sincicial respiratório (VSR)": [
+        "Dificuldade para respirar",
+        "Dificuldade para se alimentar",
+        "Necessidade de suporte respiratório",
+        "Necessidade de hidratação hospitalar"
+    ],
+    "Febre Maculosa do Colorado": [
+        "Febre",
+        "Calafrios",
+        "Dor de cabeça",
+        "Dores no corpo",
+        "Cansaço",
+        "Fraqueza (pode durar várias semanas)",
+        "Fadiga (pode durar várias semanas)",
+        "Doença grave que afeta o sistema nervoso central (em casos raros)"
+    ],
+    "Infecção no ouvido médio": [
+        "Infecção atrás do tímpano"
+    ],
+    "Vírus sincicial respiratório (RSV)": [],
+    "Antraz": [],
+    "Tuberculose Bovina": [],
+    "Brucelose": [],
+    "Dermatofilose": [
+        "Lã Empelotada",
+        "Podridão do Pé de Morango",
+        "Queimadura da Chuva",
+        "Podridão da Chuva"
+    ],
+    "Vírus Orf": [
+        "Infecção Bucal"
+    ],
+    "Infecção por E. coli": [],
+    "Leptospirose": [],
+    "Infecção por Listeria": [],
+    "MRSA": [],
+    "Tinea": [],
+    "Infecção por Salmonella": [],
+    "Estomatite Vesicular": [],
+    "Infecção por Parvovírus B19": [
+        "Sintomas semelhantes aos da gripe",
+        "Erupções cutâneas",
+        "Dores nas articulações",
+        "Febre",
+        "Dor de cabeça",
+        "Tosse",
+        "Dor de garganta",
+        "Erupção cutânea vermelha no rosto (\"bochecha esbofeteada\")",
+        "Erupção cutânea generalizada no peito, costas, nádegas, braços e pernas",
+        "Erupção cutânea com coceira",
+        "Dor e inchaço nas articulações",
+        "Contagem baixa de células sanguíneas (anemia)"
+    ],
+    "Quinta Doença (Eritema Infeccioso)": [
+        "Erupção cutânea vermelha no rosto (\"bochecha esbofeteada\")"
+    ],
+    "Síndrome de Poliartopatia": [
+        "Dor e inchaço nas articulações"
+    ],
+    "Complicações da Infecção por Parvovírus B19": [
+        "Problemas neurológicos",
+        "Problemas nas articulações",
+        "Problemas no sistema sanguíneo",
+        "Queda grave na contagem de células sanguíneas (anemia)",
+        "Aborto espontâneo (durante a gravidez)"
+    ],
+    "Febre Recorrente": [
+        "Febre",
+        "Dor de cabeça",
+        "Dor muscular"
+    ],
+    "Doença arterial periférica (DAP)": [
+        "Dor nas pernas ao se exercitar, como caminhar, que melhora após o repouso",
+        "Dores, incômodos ou cãibras ao caminhar (claudicação) na nádega, quadril, coxa ou panturrilha",
+        "Atrofia muscular (fraqueza)",
+        "Queda de cabelo",
+        "Pele lisa e brilhante",
+        "Pele fria ao toque, especialmente se houver dor ao caminhar (que é aliviada ao parar de caminhar)",
+        "Pulsos diminuídos ou ausentes nos pés",
+        "Feriadas ou úlceras nas pernas ou pés que não cicatrizam",
+        "Dedos dos pés frios ou dormentes"
+    ],
+    "Doença arterial coronariana": [],
+    "Doença cerebrovascular": [],
+    "Infecção por Capnocytophaga": [
+        "Bolhas ao redor da área da mordida",
+        "Vermelhidão, inchaço, drenagem de pus ou dor na área da mordida",
+        "Febre",
+        "Diarreia e/ou dor de estômago",
+        "Vômito",
+        "Dor de cabeça e/ou confusão",
+        "Dor muscular ou articular",
+        "Inflamação do revestimento do coração (endocardite)",
+        "Coleções de pus, vermelhidão e inchaço em vários tecidos do corpo (abscessos)",
+        "Inflamação dos olhos, rosto, gânglios linfáticos ou membranas cerebrais (meningite)"
+    ],
+    "Sepse": [],
+    "Ataque cardíaco": [],
+    "Insuficiência renal": [],
+    "Gangrena": [],
+    "Infecção por Pasteurella": [],
+    "Bartonelose (doença da arranhadura do gato)": [],
+    "Infecções oculares": [],
+    "Infecções nas gengivas e tecidos bucais": [],
+    "Infecções do trato respiratório": [],
+    "Listeriose": [
+        "Febre",
+        "Sintomas semelhantes aos da gripe, como dores musculares e fadiga",
+        "Dor de cabeça",
+        "Torcicolo",
+        "Confusão",
+        "Perda de equilíbrio",
+        "Convulsões",
+        "Diarreia",
+        "Vômito"
+    ],
+    "Ceratite por Acanthamoeba": [
+        "Dor nos olhos",
+        "Vermelhidão nos olhos",
+        "Visão turva",
+        "Sensibilidade à luz",
+        "Sensação de ter algo no olho",
+        "Lacrimejamento excessivo"
+    ],
+    "Infecção Disseminada por Acanthamoeba": [
+        "Inflamação dos pulmões",
+        "Inflamação dos seios da face",
+        "Infecções de pele",
+        "Nódulos avermelhados na pele",
+        "Úlceras na pele",
+        "Abcessos na pele"
+    ],
+    "Encefalite Amebiana Granulomatosa (EAG)": [
+        "Alterações no estado mental",
+        "Perda de coordenação",
+        "Febre",
+        "Fraqueza muscular ou paralisia parcial afetando um lado do corpo",
+        "Visão dupla",
+        "Sensibilidade à luz",
+        "Outros problemas neurológicos"
     ]
 }

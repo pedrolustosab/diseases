@@ -1,0 +1,38 @@
+{
+    "Listeriose": [
+        "Febre",
+        "Sintomas semelhantes aos da gripe, como dores musculares e fadiga",
+        "Dor de cabeça",
+        "Torcicolo",
+        "Confusão",
+        "Perda de equilíbrio",
+        "Convulsões",
+        "Diarreia",
+        "Vômito"
+    ],
+    "Ceratite por Acanthamoeba": [
+        "Dor nos olhos",
+        "Vermelhidão nos olhos",
+        "Visão turva",
+        "Sensibilidade à luz",
+        "Sensação de ter algo no olho",
+        "Lacrimejamento excessivo"
+    ],
+    "Infecção Disseminada por Acanthamoeba": [
+        "Inflamação dos pulmões",
+        "Inflamação dos seios da face",
+        "Infecções de pele",
+        "Nódulos avermelhados na pele",
+        "Úlceras na pele",
+        "Abcessos na pele"
+    ],
+    "Encefalite Amebiana Granulomatosa (EAG)": [
+        "Alterações no estado mental",
+        "Perda de coordenação",
+        "Febre",
+        "Fraqueza muscular ou paralisia parcial afetando um lado do corpo",
+        "Visão dupla",
+        "Sensibilidade à luz",
+        "Outros problemas neurológicos"
+    ]
+}
